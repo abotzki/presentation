@@ -35,6 +35,10 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
 
 -->
 
+# Welkom
+
+Klik op de link om de presentatie te starten: [Laten we beginnen!](https://liascript.github.io/course/?
+
 # Inleiding
 
         --{{0}}--
