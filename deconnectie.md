@@ -39,24 +39,34 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
 
 # Welkom
 
-Klik op de link om de presentatie te starten: [Laten we beginnen!](https://liascript.github.io/course/?https://raw.githubusercontent.com/abotzki/presentation/refs/heads/master/deconnectie.md)
+[Laten we beginnen!](https://liascript.github.io/course/?https://raw.githubusercontent.com/abotzki/presentation/refs/heads/master/deconnectie.md)
 
-# Inleiding
+Klik op de boek icoontje rechts boven in de hoek van het scherm en kies Presentatie om in de presentatiemodus te gaan. Vervolgens kan je met de pijltoetsen van je toetsenbord door de presentatie gaan. 
+
+# Recht op deconnectie in het Vlaams onderwijs 
 
         --{{0}}--
-Dames en heren, welkom en bedankt voor uw aanwezigheid vandaag. Stel u voor: het is vrijdagavond, u heeft net een lange werkweek achter de rug en u kijkt uit naar een ontspannen weekend. Maar dan, net als u zich neerzet met een goed boek of een film, pingt uw telefoon. Een e-mail van uw baas. Moet u reageren? Of heeft u het recht om te deconnecteren?
+Beste medestudenten, Stel u voor: het is vrijdagavond, u heeft net een lange werkweek achter de rug en u kijkt uit naar een ontspannen weekend. Maar dan, net als u zich neerzet met een goed boek of een film, pingt uw telefoon. Een e-mail van uw directeur. Moet u reageren? Of heeft u het recht om te deconnecteren?
+!?[⏯](./img/recording-test1.webm)
+
+        --{{0}}--
 Vandaag duiken we in een cruciaal en actueel thema: “Leeft het recht op deconnectie enkel op papier of echt?” In een wereld waar technologie ons constant verbindt, is het belangrijker dan ooit om te begrijpen wat dit recht inhoudt en hoe het in de praktijk wordt toegepast. Is het een theoretisch concept, mooi op papier maar moeilijk te realiseren? Of zijn er concrete stappen die we kunnen nemen om dit recht te waarborgen en te respecteren?
+
+          --{{0}}--
 Laten we samen onderzoeken hoe het Vlaamse onderwijs dit recht benadert en welke lessen we kunnen trekken voor een gezonde balans tussen werk en privéleven. Bent u klaar om deze reis met mij te maken? Laten we beginnen!
 
-# 
+![deconnectie](./img/9568220.jpg "[^🦶]")
 
-Digitale competenties
+[^🦶]: Designed by Freepik: https://www.freepik.com/free-vector/hand-drawn-endless-scrolling-illustration_64776684.htm
+
+# Digitale competenties 
+
 
 # Welzijnszorg 
 
 # Beleidsvoorbereiding
 
-# Digitaliseringsbeleids
+# Digitaliseringsbeleid
 
 # Professionalisering & Levenslang leren
 
