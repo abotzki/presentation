@@ -48,7 +48,9 @@ Dames en heren, welkom en bedankt voor uw aanwezigheid vandaag. Stel u voor: het
 Vandaag duiken we in een cruciaal en actueel thema: “Leeft het recht op deconnectie enkel op papier of echt?” In een wereld waar technologie ons constant verbindt, is het belangrijker dan ooit om te begrijpen wat dit recht inhoudt en hoe het in de praktijk wordt toegepast. Is het een theoretisch concept, mooi op papier maar moeilijk te realiseren? Of zijn er concrete stappen die we kunnen nemen om dit recht te waarborgen en te respecteren?
 Laten we samen onderzoeken hoe het Vlaamse onderwijs dit recht benadert en welke lessen we kunnen trekken voor een gezonde balans tussen werk en privéleven. Bent u klaar om deze reis met mij te maken? Laten we beginnen!
 
-# Digitale competenties
+# 
+
+Digitale competenties
 
 # Welzijnszorg 
 
