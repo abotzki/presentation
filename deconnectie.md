@@ -43,13 +43,14 @@ Klik op de boek icoontje rechts boven in de hoek van het scherm en kies Presenta
 
 # Recht op deconnectie in het Vlaams onderwijs 
 
+
+
         --{{0}}--
+?[⏯](./img/slide-00-inleiding.mp3)
 Beste medestudenten, Stel u voor: het is vrijdagavond, u heeft net een lange werkweek achter de rug en u kijkt uit naar een ontspannen weekend. Maar dan, net als u zich neerzet met een goed boek of een film, pingt uw telefoon. Een e-mail van uw directeur. Moet u reageren? Of heeft u het recht om te deconnecteren? Vandaag duiken we in een cruciaal en actueel thema: “Leeft het recht op deconnectie enkel op papier of is het ingeburgerd in het Vlaams onderwijs?” 
 
      --{{0}}--
 In een wereld waar technologie ons constant verbindt, is het belangrijker dan ooit om te begrijpen wat dit recht inhoudt en hoe het in de praktijk wordt toegepast. Laten we samen bekijken hoe het Vlaamse onderwijs dit recht benadert en welke lessen we kunnen trekken voor een gezonde balans tussen werk en privéleven. Bent u klaar om deze reis met mij te maken? Laten we beginnen!
-
-   --{{0}}--
 
 
 ![deconnectie](./img/9568220.jpg "[^🦶]")
@@ -59,6 +60,7 @@ In een wereld waar technologie ons constant verbindt, is het belangrijker dan oo
 # Digitale competenties 
 
        --{{0}}--
+?[⏯](./img/slide-01-digitale-competenties.mp3)
 Laat ons eerst op digitale competenties inzoomen. De leerkracht werkt aan 16 sleutelcompetenties, waaronder digitale vaardigheden en mediawijsheid. Dit vereist dat je je vaardigheden onderhoudt om als innovator in het onderwijs te functioneren. De Vlaamse overheid heeft met de Digisprong geprobeerd de digitale kloof te dichten en de digitale vaardigheden van leerkrachten te versterken. Het nieuwe regeerakkoord stelt voor om deze operatie voort te zetten door te investeren in ICT-infrastructuur voor leerlingen, leraren en schoolteams. Het doel is een positieve houding ten opzichte van digitale technologieën te stimuleren en creatief en kritisch gebruik aan te moedigen. Echter, het toenemende aanbod aan digitale communicatietools en de variabiliteit van eduTools stellen hoge eisen aan de digitale vaardigheden van leerkrachten en leerlingen. De continue noodzaak om deze tools te gebruiken kan leiden tot het niet weten wanneer te deconnecteren. Daarom is het essentieel dat de schoolgemeenschap digitaal vaardig is en bewust blijft van haar digitale grenzen.
 
              --{{0}}--
@@ -73,6 +75,7 @@ Echter, het steeds toenemende aanbod aan digitale communicatietools, zoals email
 # Welzijnszorg 
    
       --{{0}}--
+?[⏯](./img/slide-02-welzijnszorg.mp3)
 Welzijnszorg is bevoegheid van de Vlaamse gemeenschap. Een goede werk-privébalans voor leraren en het welbevinden van scholieren zijn van cruciaal belang. Een studie over de werkbaarheid van jobs in scholen, uitgevoerd door de Stichting Arbeid en Innovatie, toont als pijnpunten werkstressklachten, emotionele belasting, motivatieproblemen en een verstoorde werk-privébalans. De Vlaamse overheid kan helpen met centrale regelgeving, zoals het afsprakenkader deconnectie uit 2022. Ook schoolbesturen en directeurs hebben een belangrijke rol in het verminderen van werkstress door hun maatregelen te evalueren op hun impact op het personeel. Jongeren hebben volgens de Apenstaartjarenstudie 2024 moeite om buiten schooluren te ontsnappen aan mails van leerkrachten, zitten vast in verslavende TikTok-algoritmes en meldingen van sociale media. Schermen hebben een grote negatieve impact, maar bieden ook ontspanning en betere connecties met vrienden. Het probleem van constante verbondenheid treft dus jongeren en volwassenen tegelijkertijd en moet als maatschappij aangepakt worden.
 
       --{{0}}--
@@ -86,6 +89,7 @@ Naast deconnectie legt een studie over de werkbaarheid van jobs in de scholen di
 # Beleidscyclus
 
    --{{0}}--
+?[⏯](./img/slide-03-beleidscyclus.mp3)
 Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege gekomen. De beleidscyclus op Vlaams niveau wordt vaak beinvloed door de ontwikkeling van Europese richtlijnen en Belgische wetten. Hier een korte duik in de recente geschiedenis: de sociale partners in Vlaanderen sloten in september 2021 de CAO (Collectieve ArbeidsOvereenkomst) XII af waar onder anderen ook aanbevelingen over gebruik van digitale communicatiemiddelen naar voren geschoven werden. Een jaar later werd dit globale kader werd in de schoot van de onderhandelingscomités (SCX-C2-OOC en VOCB) vertaald naar een centraal afsprakenkader. Dit centrale kader vereiste dat scholen uiterlijk op 1 september 2023 een lokaal afsprakenkader deconnectie opnemen als bijlage bij het arbeids- en schoolreglement. In het huidige Vlaamse regeerakkoord valt het expliciete vernoemen van een smartphonebeleid wat het geschetste beleidscyclus opnieuw zal voeden. Samen met het boven vermeld onderzoek naar mentaal welzijn ondersteunen deze maatregelen de beleidsvorming, waardoor er een solide basis ontstaat voor het implementeren van digitale deconnectie in scholen. 
 
 ![beleidscyclus](./img/beleidscyclus.svg "[^🦶]")
@@ -95,6 +99,7 @@ Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege ge
 # Digitaliseringsbeleid
 
    --{{0}}--
+?[⏯](./img/slide-04-digitaliseringsbeleid.mp3)
 Digitaliseringsbeleid op lokaal niveau, zoals afsprakenkaders en arbeidsreglementen, helpt bij het creëren van duidelijke richtlijnen voor het gebruik van digitale tools. De speerpunten van dit kader zijn gericht op het inzetten van digitale communicatiemiddelen om onderwijspersoneel, leerlingen, cursisten en ouders te ontlasten, niet te belasten. In vele scholen werd ook reeds nagedacht hoe ze dit ook voor leerlingen kunnen garanderen. In het Lyceum van Genk werd bijvoorbeeld via een suggestiemuur input gevraagd van leerlingen, leerkrachten en ouders. Dit resulteerde in een visueel Smartschool-Charter. Het lokale afsprakenkader krijgt zo een duidelijke plaats binnen het preventieve welzijnsbeleid van onderwijsinstellingen en besteedt aandacht aan de impact van (de)connectiviteit op het psychosociaal welzijn. Maar ook hier zal de tijd niet stilstaan gezien we in het nieuwe Vlaamse regeerakkoord kunnen lezen 'We (= de regering) zorgen dat scholen een beleid opstellen rond digitalisering in hun school. We versterken de samenwerking met de EdTech-sector."
 
 ![](./img/digitaal-beleid.svg "[^🦶]")
@@ -109,6 +114,7 @@ Digitaliseringsbeleid op lokaal niveau, zoals afsprakenkaders en arbeidsreglemen
 # Professionalisering & Levenslang leren
 
     --{{0}}--
+?[⏯](./img/slide-05-professionalisering.mp3)
 Tenslotte: de professionalisering & Levenslang leren. Sensibilisering speelt een cruciale rol in digitalisering en welzijnsbeleid. Vandaar dat verscheidene spelers in het Vlaams onderwijsveld een waaier aan opleidingen en beleidstools aanbieden rond bewustwording rond digitale deconnectie en nieuwe ontwikkelingen op het gebied van digitale vaardigheden. Pedagogische ICT-coördinatoren en tools van organisaties zoals Idewe en Klasse helpen personeelsleden om beter om te gaan met de digitale eisen van hun werk. Tijdens studiedagen en seminaries, zoals die van Stedelijk Onderwijs Gent, wordt er gewerkt aan deconnectie. Deze evenementen sensibiliseren en ondersteunen personeelsleden om werk te maken van een geïntegreerd welzijnsbeleid. Een voorbeeld hiervan is het online instrument WellBe, dat speciaal is ontwikkeld om dit proces te faciliteren. Al deze opleidingen en tools dragen bij aan een professionele en gezonde werkomgeving waarin de balans tussen connectie en deconnectie wordt gerespecteerd.
 
 ![](./img/LLL-welzijn-ICT.svg "[^🦶]")
