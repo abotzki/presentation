@@ -121,12 +121,13 @@ Tenslotte: de professionalisering & Levenslang leren. Sensibilisering speelt een
 
 [^🦶]: https://www.idewe.be/-/deconnectie-onderwijs; https://stad.gent/vormingsaanbodsog/individueel-aanbod/seminarie-met-gunnar-michielsen-werk-maken-van-deconnectie; https://pro.g-o.be/agenda/7734-15218-opleiding-go-pedagogisch-ict-co; https://nascholing.be/2024-2025/index.aspx?modID=4057250; DigiCompEdu
 
-# En nu de vragen aan jullie
+# De drie stellingen - graag jullie reacties!
 
-- leeft het enkel op papier?
-- wie moet de opleidingen / awareness raising organiseren - de regering of de directie?
-- hebben de leerkrachten genoeg opties/opportuniteiten en/of tijd om opleidingen kunnen volgen?
--  
+- Strenger handhaven van deconnectie in het onderwijs is nodig voor een betere werk-privébalans, ondanks het nieuwe smartphonebeleid.
+
+- Meer investeringen in bewustwording en trainingen omtrent deconnectie zijn nodig om de negatieve impact van constante digitale verbondenheid te verminderen.
+
+- De nadruk op digitale competenties en eduTools vanuit de overheid vereist dat scholen preventieve maatregelen nemen om het recht op deconnectie te waarborgen.
 
 # References
 
