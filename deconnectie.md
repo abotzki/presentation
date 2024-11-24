@@ -2,6 +2,7 @@
 title: "Het recht op deconnectie in het Vlaamse onderwijs"
 language: nl
 narrator: Dutch Female
+mode: Presentation
 
 import: https://raw.githubusercontent.com/LiaScript/CodeRunner/master/README.md
         https://raw.githubusercontent.com/LiaTemplates/BeforeAndAfter/0.0.1/README.md
