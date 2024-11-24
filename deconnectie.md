@@ -40,11 +40,9 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
 
 [Laten we beginnen!](https://liascript.github.io/course/?https://raw.githubusercontent.com/abotzki/presentation/refs/heads/master/deconnectie.md)
 
-Klik op de boek icoontje rechts boven in de hoek van het scherm en kies Presentatie om in de presentatiemodus te gaan. Vervolgens kan je met de pijltoetsen van je toetsenbord door de presentatie gaan. 
+De presentatie wordt volledig op je computer geladen. Vervolgens kan je met de pijltoetsen van je toetsenbord door de presentatie gaan. Klik uiteraard ook op Luidspreker icoontje onderaan de pagina om de uitleg bij elke slide te kunnen beluisteren.
 
 # Recht op deconnectie in het Vlaams onderwijs 
-
-
 
         --{{0}}--
 ?[⏯](./img/slide-00-inleiding.mp3)
