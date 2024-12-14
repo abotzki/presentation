@@ -119,7 +119,7 @@ Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege ge
 ![beleidscyclus](./img/04sleutel-slot-cel.svg "[^🦶]")
 
 <!-- style="font-size: 2em" -->
-> Ook in ons licham hebben we 'sleutels' en 'sloten'.
+> Ook in ons lichaam hebben we 'sleutels' en 'sloten'.
 
 [^🦶]: https://www.c3.nl/wp-content/uploads/woocommerce_uploads/2018/02/Voor-de-leerling-Knutselen-met-moleculen.pdf
 
