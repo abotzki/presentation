@@ -68,7 +68,6 @@ Beste medestudenten, Stel u voor: het is vrijdagavond, u heeft net een lange wer
 In een wereld waar technologie ons constant verbindt, is het belangrijker dan ooit om te begrijpen wat dit recht inhoudt en hoe het in de praktijk wordt toegepast. Laten we samen bekijken hoe het Vlaamse onderwijs dit recht benadert en welke lessen we kunnen trekken voor een gezonde balans tussen werk en privéleven. Bent u klaar om deze reis met mij te maken? Laten we beginnen!
 
 
-
 [^🦶]: Designed by Freepik: https://nl.freepik.com/vrije-photo/beveiligingsconcept-met-slot_22632767.htm#fromView=search&page=1&position=49&uuid=abfcf2c4-41ae-4315-beea-83b36deca858; https://nl.freepik.com/vrije-photo/hou-van-hangsloten-op-metalen-reling_9898302.htm#fromView=search&page=1&position=47&uuid=03fe7b58-ae23-4945-81f7-4d3d14f83ffc
 
 # Binnenkort weer hooikoorts? 
@@ -77,10 +76,10 @@ In een wereld waar technologie ons constant verbindt, is het belangrijker dan oo
 ?[⏯](./img/slide-03-beleidscyclus.mp3)
 Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege gekomen. De beleidscyclus op Vlaams niveau wordt vaak beinvloed door de ontwikkeling van Europese richtlijnen en Belgische wetten. Hier een korte duik in de recente geschiedenis: de sociale partners in Vlaanderen sloten in september 2021 de CAO (Collectieve ArbeidsOvereenkomst) XII af waar onder anderen ook aanbevelingen over gebruik van digitale communicatiemiddelen naar voren geschoven werden. Een jaar later werd dit globale kader werd in de schoot van de onderhandelingscomités (SCX-C2-OOC en VOCB) vertaald naar een centraal afsprakenkader. Dit centrale kader vereiste dat scholen uiterlijk op 1 september 2023 een lokaal afsprakenkader deconnectie opnemen als bijlage bij het arbeids- en schoolreglement. In het huidige Vlaamse regeerakkoord valt het expliciete vernoemen van een smartphonebeleid wat het geschetste beleidscyclus opnieuw zal voeden. Samen met het boven vermeld onderzoek naar mentaal welzijn ondersteunen deze maatregelen de beleidsvorming, waardoor er een solide basis ontstaat voor het implementeren van digitale deconnectie in scholen. 
 
+![beleidscyclus](./img/cel-receptor.svg "[^🦶]")
+
 <!-- style="font-size: 2em" -->
 > Geen vuiltje aan de lucht
-
-![beleidscyclus](./img/cel-receptor.svg "[^🦶]")
 
 [^🦶]: https://www.c3.nl/wp-content/uploads/woocommerce_uploads/2018/02/Voor-de-leerling-Knutselen-met-moleculen.pdf
 
@@ -89,12 +88,12 @@ Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege ge
    --{{0}}--
 ?[⏯](./img/slide-03-beleidscyclus.mp3)
 Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege gekomen. De beleidscyclus op Vlaams niveau wordt vaak beinvloed door de ontwikkeling van Europese richtlijnen en Belgische wetten. Hier een korte duik in de recente geschiedenis: de sociale partners in Vlaanderen sloten in september 2021 de CAO (Collectieve ArbeidsOvereenkomst) XII af waar onder anderen ook aanbevelingen over gebruik van digitale communicatiemiddelen naar voren geschoven werden. Een jaar later werd dit globale kader werd in de schoot van de onderhandelingscomités (SCX-C2-OOC en VOCB) vertaald naar een centraal afsprakenkader. Dit centrale kader vereiste dat scholen uiterlijk op 1 september 2023 een lokaal afsprakenkader deconnectie opnemen als bijlage bij het arbeids- en schoolreglement. In het huidige Vlaamse regeerakkoord valt het expliciete vernoemen van een smartphonebeleid wat het geschetste beleidscyclus opnieuw zal voeden. Samen met het boven vermeld onderzoek naar mentaal welzijn ondersteunen deze maatregelen de beleidsvorming, waardoor er een solide basis ontstaat voor het implementeren van digitale deconnectie in scholen. 
+
+![beleidscyclus](./img/histamine-cel-niet-gebonden.svg "[^🦶]")
 
 <!-- style="font-size: 2em" -->
 > Je ruikt gevaar, histamine is vrijgekomen
 
-![beleidscyclus](./img/histamine-cel-niet-gebonden.svg "[^🦶]")
-
 [^🦶]: https://www.c3.nl/wp-content/uploads/woocommerce_uploads/2018/02/Voor-de-leerling-Knutselen-met-moleculen.pdf
 
 # Binnenkort weer hooikoorts? 
@@ -103,14 +102,66 @@ Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege ge
 ?[⏯](./img/slide-03-beleidscyclus.mp3)
 Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege gekomen. De beleidscyclus op Vlaams niveau wordt vaak beinvloed door de ontwikkeling van Europese richtlijnen en Belgische wetten. Hier een korte duik in de recente geschiedenis: de sociale partners in Vlaanderen sloten in september 2021 de CAO (Collectieve ArbeidsOvereenkomst) XII af waar onder anderen ook aanbevelingen over gebruik van digitale communicatiemiddelen naar voren geschoven werden. Een jaar later werd dit globale kader werd in de schoot van de onderhandelingscomités (SCX-C2-OOC en VOCB) vertaald naar een centraal afsprakenkader. Dit centrale kader vereiste dat scholen uiterlijk op 1 september 2023 een lokaal afsprakenkader deconnectie opnemen als bijlage bij het arbeids- en schoolreglement. In het huidige Vlaamse regeerakkoord valt het expliciete vernoemen van een smartphonebeleid wat het geschetste beleidscyclus opnieuw zal voeden. Samen met het boven vermeld onderzoek naar mentaal welzijn ondersteunen deze maatregelen de beleidsvorming, waardoor er een solide basis ontstaat voor het implementeren van digitale deconnectie in scholen. 
 
+![beleidscyclus](./img/histamine-cel-gebonden.svg "[^🦶]")
+
 <!-- style="font-size: 2em" -->
 > Groot alarm -- je ogen tranen, je hebt een snotneus en kriebel in je keel...
 
-![beleidscyclus](./img/histamine-cel-gebonden.svg "[^🦶]")
+[^🦶]: https://www.c3.nl/wp-content/uploads/woocommerce_uploads/2018/02/Voor-de-leerling-Knutselen-met-moleculen.pdf
+
+# Sleutels en sloten in de biologische contekst 
+
+   --{{0}}--
+?[⏯](./img/slide-03-beleidscyclus.mp3)
+Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege gekomen. De beleidscyclus op Vlaams niveau wordt vaak beinvloed door de ontwikkeling van Europese richtlijnen en Belgische wetten. Hier een korte duik in de recente geschiedenis: de sociale partners in Vlaanderen sloten in september 2021 de CAO (Collectieve ArbeidsOvereenkomst) XII af waar onder anderen ook aanbevelingen over gebruik van digitale communicatiemiddelen naar voren geschoven werden. Een jaar later werd dit globale kader werd in de schoot van de onderhandelingscomités (SCX-C2-OOC en VOCB) vertaald naar een centraal afsprakenkader. Dit centrale kader vereiste dat scholen uiterlijk op 1 september 2023 een lokaal afsprakenkader deconnectie opnemen als bijlage bij het arbeids- en schoolreglement. In het huidige Vlaamse regeerakkoord valt het expliciete vernoemen van een smartphonebeleid wat het geschetste beleidscyclus opnieuw zal voeden. Samen met het boven vermeld onderzoek naar mentaal welzijn ondersteunen deze maatregelen de beleidsvorming, waardoor er een solide basis ontstaat voor het implementeren van digitale deconnectie in scholen. 
+
+![beleidscyclus](./img/sleutel-slot-cel.svg "[^🦶]")
+
+<!-- style="font-size: 2em" -->
+> Groot alarm -- je ogen tranen, je hebt een snotneus en kriebel in je keel...
 
 [^🦶]: https://www.c3.nl/wp-content/uploads/woocommerce_uploads/2018/02/Voor-de-leerling-Knutselen-met-moleculen.pdf
 
-# Samenvatting
+# Sleutels en sloten in de biologische contekst 
+
+   --{{0}}--
+?[⏯](./img/slide-03-beleidscyclus.mp3)
+Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege gekomen. De beleidscyclus op Vlaams niveau wordt vaak beinvloed door de ontwikkeling van Europese richtlijnen en Belgische wetten. Hier een korte duik in de recente geschiedenis: de sociale partners in Vlaanderen sloten in september 2021 de CAO (Collectieve ArbeidsOvereenkomst) XII af waar onder anderen ook aanbevelingen over gebruik van digitale communicatiemiddelen naar voren geschoven werden. Een jaar later werd dit globale kader werd in de schoot van de onderhandelingscomités (SCX-C2-OOC en VOCB) vertaald naar een centraal afsprakenkader. Dit centrale kader vereiste dat scholen uiterlijk op 1 september 2023 een lokaal afsprakenkader deconnectie opnemen als bijlage bij het arbeids- en schoolreglement. In het huidige Vlaamse regeerakkoord valt het expliciete vernoemen van een smartphonebeleid wat het geschetste beleidscyclus opnieuw zal voeden. Samen met het boven vermeld onderzoek naar mentaal welzijn ondersteunen deze maatregelen de beleidsvorming, waardoor er een solide basis ontstaat voor het implementeren van digitale deconnectie in scholen. 
+
+![beleidscyclus](./img/molecuul-receptor-cel.svg "[^🦶]")
+
+<!-- style="font-size: 2em" -->
+> Groot alarm -- je ogen tranen, je hebt een snotneus en kriebel in je keel...
+
+[^🦶]: https://www.c3.nl/wp-content/uploads/woocommerce_uploads/2018/02/Voor-de-leerling-Knutselen-met-moleculen.pdf
+
+# Sleutels en sloten in de biologische contekst 
+
+   --{{0}}--
+?[⏯](./img/slide-03-beleidscyclus.mp3)
+Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege gekomen. De beleidscyclus op Vlaams niveau wordt vaak beinvloed door de ontwikkeling van Europese richtlijnen en Belgische wetten. Hier een korte duik in de recente geschiedenis: de sociale partners in Vlaanderen sloten in september 2021 de CAO (Collectieve ArbeidsOvereenkomst) XII af waar onder anderen ook aanbevelingen over gebruik van digitale communicatiemiddelen naar voren geschoven werden. Een jaar later werd dit globale kader werd in de schoot van de onderhandelingscomités (SCX-C2-OOC en VOCB) vertaald naar een centraal afsprakenkader. Dit centrale kader vereiste dat scholen uiterlijk op 1 september 2023 een lokaal afsprakenkader deconnectie opnemen als bijlage bij het arbeids- en schoolreglement. In het huidige Vlaamse regeerakkoord valt het expliciete vernoemen van een smartphonebeleid wat het geschetste beleidscyclus opnieuw zal voeden. Samen met het boven vermeld onderzoek naar mentaal welzijn ondersteunen deze maatregelen de beleidsvorming, waardoor er een solide basis ontstaat voor het implementeren van digitale deconnectie in scholen. 
+
+![beleidscyclus](./img/sleutel-slot-yes-no.svg "[^🦶]")
+
+<!-- style="font-size: 2em" -->
+> Groot alarm -- je ogen tranen, je hebt een snotneus en kriebel in je keel...
+
+[^🦶]: https://www.c3.nl/wp-content/uploads/woocommerce_uploads/2018/02/Voor-de-leerling-Knutselen-met-moleculen.pdf
+
+# Sleutels en sloten in de biologische contekst 
+
+   --{{0}}--
+?[⏯](./img/slide-03-beleidscyclus.mp3)
+Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege gekomen. De beleidscyclus op Vlaams niveau wordt vaak beinvloed door de ontwikkeling van Europese richtlijnen en Belgische wetten. Hier een korte duik in de recente geschiedenis: de sociale partners in Vlaanderen sloten in september 2021 de CAO (Collectieve ArbeidsOvereenkomst) XII af waar onder anderen ook aanbevelingen over gebruik van digitale communicatiemiddelen naar voren geschoven werden. Een jaar later werd dit globale kader werd in de schoot van de onderhandelingscomités (SCX-C2-OOC en VOCB) vertaald naar een centraal afsprakenkader. Dit centrale kader vereiste dat scholen uiterlijk op 1 september 2023 een lokaal afsprakenkader deconnectie opnemen als bijlage bij het arbeids- en schoolreglement. In het huidige Vlaamse regeerakkoord valt het expliciete vernoemen van een smartphonebeleid wat het geschetste beleidscyclus opnieuw zal voeden. Samen met het boven vermeld onderzoek naar mentaal welzijn ondersteunen deze maatregelen de beleidsvorming, waardoor er een solide basis ontstaat voor het implementeren van digitale deconnectie in scholen. 
+
+![beleidscyclus](./img/sleutel-slot-yes-no-inhibitor.svg "[^🦶]")
+
+<!-- style="font-size: 2em" -->
+> Groot alarm -- je ogen tranen, je hebt een snotneus en kriebel in je keel...
+
+[^🦶]: https://www.c3.nl/wp-content/uploads/woocommerce_uploads/2018/02/Voor-de-leerling-Knutselen-met-moleculen.pdf
+
+# Het sleutel-slot principe is al 130 jaar oud
    
       --{{0}}--
 ?[⏯](./img/slide-02-welzijnszorg.mp3)
@@ -122,6 +173,7 @@ Naast deconnectie legt een studie over de werkbaarheid van jobs in de scholen di
 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/e/e0/Hermann_Emil_Fischer_c1895.jpg "[^🦶]")
+- Dieses Prinzip wurde 1894 von Emil Fischer hypothetisch beschrieben am Beispiel der spezifischen Bindung zwischen Enzym und Substrat.
 - Het sleutel-slot principe is essentieel voor het begrijpen van moleculaire interacties in de biologie en heeft brede toepassingen in de wetenschap en geneeskunde.
 - Het sleutel-slot principe wordt toegepast in enzym-substraat interacties, hormoon-receptor binding, en medicijnontwerp.
 
