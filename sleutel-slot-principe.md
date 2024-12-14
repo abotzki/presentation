@@ -67,7 +67,7 @@ Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege ge
 ![beleidscyclus](./img/00-sleutels-sloten.svg "[^🦶]")
 
 <!-- style="font-size: 2em" -->
-> Geen vuiltje aan de lucht
+> Hoe krijgen we de liefdesslotjes open?
 
 [^🦶]: https://www.c3.nl/wp-content/uploads/woocommerce_uploads/2018/02/Voor-de-leerling-Knutselen-met-moleculen.pdf
 
@@ -119,7 +119,7 @@ Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege ge
 ![beleidscyclus](./img/04sleutel-slot-cel.svg "[^🦶]")
 
 <!-- style="font-size: 2em" -->
-> Groot alarm -- je ogen tranen, je hebt een snotneus en kriebel in je keel...
+> Ook in ons licham hebben we 'sleutels' en 'sloten'.
 
 [^🦶]: https://www.c3.nl/wp-content/uploads/woocommerce_uploads/2018/02/Voor-de-leerling-Knutselen-met-moleculen.pdf
 
@@ -132,7 +132,7 @@ Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege ge
 ![beleidscyclus](./img/05molecuul-receptor-cel.svg "[^🦶]")
 
 <!-- style="font-size: 2em" -->
-> Groot alarm -- je ogen tranen, je hebt een snotneus en kriebel in je keel...
+> Sleutels zijn moleculen of substraten en de sloten zijn eiwitten. 
 
 [^🦶]: https://www.c3.nl/wp-content/uploads/woocommerce_uploads/2018/02/Voor-de-leerling-Knutselen-met-moleculen.pdf
 
@@ -145,7 +145,7 @@ Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege ge
 ![beleidscyclus](./img/06sleutel-slot-yes-no.svg "[^🦶]")
 
 <!-- style="font-size: 2em" -->
-> Groot alarm -- je ogen tranen, je hebt een snotneus en kriebel in je keel...
+> Niet elke sleutel past op elk slot.
 
 [^🦶]: https://www.c3.nl/wp-content/uploads/woocommerce_uploads/2018/02/Voor-de-leerling-Knutselen-met-moleculen.pdf
 
@@ -158,7 +158,7 @@ Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege ge
 ![beleidscyclus](./img/07sleutel-slot-yes-no-inhibitor.svg "[^🦶]")
 
 <!-- style="font-size: 2em" -->
-> Groot alarm -- je ogen tranen, je hebt een snotneus en kriebel in je keel...
+> Biologische sloten hebben meer dan een sleutel.
 
 [^🦶]: https://www.c3.nl/wp-content/uploads/woocommerce_uploads/2018/02/Voor-de-leerling-Knutselen-met-moleculen.pdf
 
