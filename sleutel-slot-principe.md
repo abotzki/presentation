@@ -52,7 +52,7 @@ Beste medestudenten, Stel u voor: het is vrijdagavond, u heeft net een lange wer
      --{{0}}--
 In een wereld waar technologie ons constant verbindt, is het belangrijker dan ooit om te begrijpen wat dit recht inhoudt en hoe het in de praktijk wordt toegepast. Laten we samen bekijken hoe het Vlaamse onderwijs dit recht benadert en welke lessen we kunnen trekken voor een gezonde balans tussen werk en privéleven. Bent u klaar om deze reis met mij te maken? Laten we beginnen!
 
-* je kunt het sleutel-slot principe in een biologische contekst herkennen
+* je kunt het sleutel-slot principe in een biologische context herkennen
 
 * je kunt beschrijven wat het sleutel-slot-principe in de biochemie betekent
 
@@ -110,7 +110,7 @@ Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege ge
 
 [^🦶]: https://www.c3.nl/wp-content/uploads/woocommerce_uploads/2018/02/Voor-de-leerling-Knutselen-met-moleculen.pdf
 
-# Sleutels en sloten in de biologische contekst 
+# Sleutels en sloten in de biologische context 
 
    --{{0}}--
 ?[⏯](./img/slide-03-beleidscyclus.mp3)
@@ -123,7 +123,7 @@ Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege ge
 
 [^🦶]: https://www.c3.nl/wp-content/uploads/woocommerce_uploads/2018/02/Voor-de-leerling-Knutselen-met-moleculen.pdf
 
-# Sleutels en sloten in de biologische contekst 
+# Sleutels en sloten in de biologische context 
 
    --{{0}}--
 ?[⏯](./img/slide-03-beleidscyclus.mp3)
@@ -136,7 +136,7 @@ Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege ge
 
 [^🦶]: https://www.c3.nl/wp-content/uploads/woocommerce_uploads/2018/02/Voor-de-leerling-Knutselen-met-moleculen.pdf
 
-# Sleutels en sloten in de biologische contekst 
+# Sleutels en sloten in de biologische context 
 
    --{{0}}--
 ?[⏯](./img/slide-03-beleidscyclus.mp3)
@@ -149,7 +149,7 @@ Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege ge
 
 [^🦶]: https://www.c3.nl/wp-content/uploads/woocommerce_uploads/2018/02/Voor-de-leerling-Knutselen-met-moleculen.pdf
 
-# Sleutels en sloten in de biologische contekst 
+# Sleutels en sloten in de biologische context 
 
    --{{0}}--
 ?[⏯](./img/slide-03-beleidscyclus.mp3)
