@@ -87,16 +87,18 @@ Naast deconnectie legt een studie over de werkbaarheid van jobs in de scholen di
 
 [^🦶]: Emil Fischer https://en.wikipedia.org/wiki/File:Hermann_Emil_Fischer_c1895.jpg; 
 
-# Beleidscyclus
+# Binnenkort weer hooikoorts? 
 
    --{{0}}--
 ?[⏯](./img/slide-03-beleidscyclus.mp3)
 Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege gekomen. De beleidscyclus op Vlaams niveau wordt vaak beinvloed door de ontwikkeling van Europese richtlijnen en Belgische wetten. Hier een korte duik in de recente geschiedenis: de sociale partners in Vlaanderen sloten in september 2021 de CAO (Collectieve ArbeidsOvereenkomst) XII af waar onder anderen ook aanbevelingen over gebruik van digitale communicatiemiddelen naar voren geschoven werden. Een jaar later werd dit globale kader werd in de schoot van de onderhandelingscomités (SCX-C2-OOC en VOCB) vertaald naar een centraal afsprakenkader. Dit centrale kader vereiste dat scholen uiterlijk op 1 september 2023 een lokaal afsprakenkader deconnectie opnemen als bijlage bij het arbeids- en schoolreglement. In het huidige Vlaamse regeerakkoord valt het expliciete vernoemen van een smartphonebeleid wat het geschetste beleidscyclus opnieuw zal voeden. Samen met het boven vermeld onderzoek naar mentaal welzijn ondersteunen deze maatregelen de beleidsvorming, waardoor er een solide basis ontstaat voor het implementeren van digitale deconnectie in scholen. 
 
+
+
 ![beleidscyclus](./img/beleidscyclus.svg "[^🦶]")
 
-[^🦶]: https://onderwijs.vlaanderen.be/nl/nieuws/cao-xii-principieel-goedgekeurd; https://onderwijs.vlaanderen.be/sites/default/files/2022-09/2022_09_09_herwerkt_voorstel_aanbevelingen_bevoegde_comit%C3%A9s_over_gebruik_dig_communicatiemiddelen_na_OC_22070.pdf; https://www.ovsg.be/onze-themas/personeelsbeleid-loopbaan/loopbaan-gesubsidieerd-personeel/arbeidsreglement/afsprakenkader-deconnectie; https://www.freepik.com/free-vector/politician-sitting-round-table-boardroom-board-directors-with-ceo-holding-formal-talk-office-room-flat-vector-illustration-business-authority-corporate-leader-planning-strategy-concept_22343998.htm#fromView=search&page=1&position=0&uuid=19dbd7a7-af9c-453f-84c0-c418ba1b65b9; bijgewerkt startende van https://www.freepik.com/free-vector/terms-conditions-abstract-concept-illustration_20769872.htm 
-
+[^🦶]: https://www.c3.nl/wp-content/uploads/woocommerce_uploads/2018/02/Voor-de-leerling-Knutselen-met-moleculen.pdf
+ 
 # Digitaliseringsbeleid
 
    --{{0}}--
