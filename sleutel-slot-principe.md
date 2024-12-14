@@ -68,7 +68,7 @@ Welzijnszorg is bevoegheid van de Vlaamse gemeenschap. Een goede werk-privébala
 Welzijnszorg is bevoegheid van de Vlaamse gemeenschap. Een goede werk-privébalans voor leraren en het welbevinden van scholieren zijn van cruciaal belang. Door digitale deconnectie te bevorderen, kunnen we stress en burn-out verminderen, wat leidt tot een gezondere en productievere onderwijsomgeving.
 Naast deconnectie legt een studie over de werkbaarheid van jobs in de scholen die in opdracht van de Vlaamse sociale partnere door de Stichting Arbeid en Innovatie uitgevoerd werd werkstressklachten, emotionele belasting, motivatieproblemen, en een verstoorde balans werk-privé als pijnpunten bloot. Al deze pijnpunten verdienen aandacht, maar de werkstressklachten springen eruit. De Vlaamse overheid kan hier zeker haar rol spelen door centrale regelgeving op te stellen. We denken hier bijvoorbeeld aan het afsprakenkader deconnectie, dat in 2022 tot stand is gekomen en een globaal kader biedt over het gebruik van digitale communicatie in de school of het centrum. Maar ook de lagere echelons – de koepels over de school- en centrumbesturen tot de directeurs – dragen een belangrijke verantwoordelijkheid. Zij moeten zich bij iedere maatregel die zij aan het personeel opleggen de vraag stellen of en in welke zin die de werkstress beïnvloedt. Zij hebben zowel formeel als feitelijk veel impact op de werksituatie van het personeel.
 
-![](https://en.wikipedia.org/wiki/File:Hermann_Emil_Fischer_c1895.jpg "[^🦶]")
+![](https://upload.wikimedia.org/wikipedia/commons/e/e0/Hermann_Emil_Fischer_c1895.jpg "[^🦶]")
 
 [^🦶]: Emil Fischer https://en.wikipedia.org/wiki/File:Hermann_Emil_Fischer_c1895.jpg; 
 
