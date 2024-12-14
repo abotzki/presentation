@@ -58,21 +58,6 @@ In een wereld waar technologie ons constant verbindt, is het belangrijker dan oo
 
 [^🦶]: Designed by Freepik: https://www.freepik.com/free-vector/hand-drawn-endless-scrolling-illustration_64776684.htm
 
-# Digitale competenties 
-
-       --{{0}}--
-?[⏯](./img/slide-01-digitale-competenties.mp3)
-Laat ons eerst op digitale competenties inzoomen. De leerkracht werkt aan 16 sleutelcompetenties, waaronder digitale vaardigheden en mediawijsheid. Dit vereist dat je je vaardigheden onderhoudt om als innovator in het onderwijs te functioneren. De Vlaamse overheid heeft met de Digisprong geprobeerd de digitale kloof te dichten en de digitale vaardigheden van leerkrachten te versterken. Het nieuwe regeerakkoord stelt voor om deze operatie voort te zetten door te investeren in ICT-infrastructuur voor leerlingen, leraren en schoolteams. Het doel is een positieve houding ten opzichte van digitale technologieën te stimuleren en creatief en kritisch gebruik aan te moedigen. Echter, het toenemende aanbod aan digitale communicatietools en de variabiliteit van eduTools stellen hoge eisen aan de digitale vaardigheden van leerkrachten en leerlingen. De continue noodzaak om deze tools te gebruiken kan leiden tot het niet weten wanneer te deconnecteren. Daarom is het essentieel dat de schoolgemeenschap digitaal vaardig is en bewust blijft van haar digitale grenzen.
-
-             --{{0}}--
-De leerkracht werkt doelgericht aan 16 sleutelcompetenties waaronder digitale competenties en mediawijsheid bij de leerlingen. Dit houdt in dat je hierin zelf voldoende vaardig bent en je vaardigheden op peil houdt om tegemoet te komen aan je rol als innovator, een van de 10 basiscompetenties van de leraar secundair onderwijs. Ondersteunend heeft de Vlaamse overheid met de Digisprong een serieuze poging gedaan om de digitale kloof te dichten en de digitale competenties van leerkrachten te versterken. Dit initiatief toont aan dat er een duidelijke intentie is om de digitale vaardigheden in het onderwijs te verbeteren. De vier speerpunten van de Digisprong – infrastructuur, beleid, opleiding en een kenniscentrum – zijn concrete stappen die de theorie in de praktijk moeten brengen. Ook in het nieuwe regeerakkoord stelt de Vlaamse regering voor om de historische stap veilig te stellen door een vervolg te breien aan deze belangrijke operatie. Ze herhalen dus de investering in de noodzakelijke ICT-infrastructuur voor leerlingen, leraren en schoolteams. Doel is dat de Digisprong een positieve houding ten opzichte van digitale technologieën stimuleert en het creatief en kritisch gebruik aanmoedigt. Door leerkrachten te professionaliseren en hen te voorzien van de nodige middelen en ondersteuning, wordt een omgeving gecreëerd waarin digitale technologieën op een constructieve manier kunnen worden geïntegreerd in het onderwijs.
-Echter, het steeds toenemende aanbod aan digitale communicatietools, zoals email, Whatsapp, Smartschool, etc., en de grote variabiliteit van eduTools stellen zeer hoge eisen aan de digitale vaardigheden van leerkrachten en leerlingen. De continue nood tot het gebruik van deze tools kan het risico vergroten dat leerkrachten en leerlingen niet meer weten wanneer ze moeten deconnecteren. Daarom is het essentieel dat de volledige schoolgemeenschap niet alleen digitaal vaardig is, maar ook bewust blijven van haar digitale grenzen.
-
-![](./img/digitale-competenties.svg "[^🦶]")
-
-
-[^🦶]: https://nl.freepik.com/vrije-photo/beveiligingsconcept-met-slot_22632767.htm#fromView=search&page=1&position=49&uuid=abfcf2c4-41ae-4315-beea-83b36deca858​; https://nl.freepik.com/vrije-photo/hou-van-hangsloten-op-metalen-reling_9898302.htm#fromView=search&page=1&position=47&uuid=03fe7b58-ae23-4945-81f7-4d3d14f83ffc
-
 # Achtergrond
    
       --{{0}}--
@@ -93,12 +78,51 @@ Naast deconnectie legt een studie over de werkbaarheid van jobs in de scholen di
 ?[⏯](./img/slide-03-beleidscyclus.mp3)
 Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege gekomen. De beleidscyclus op Vlaams niveau wordt vaak beinvloed door de ontwikkeling van Europese richtlijnen en Belgische wetten. Hier een korte duik in de recente geschiedenis: de sociale partners in Vlaanderen sloten in september 2021 de CAO (Collectieve ArbeidsOvereenkomst) XII af waar onder anderen ook aanbevelingen over gebruik van digitale communicatiemiddelen naar voren geschoven werden. Een jaar later werd dit globale kader werd in de schoot van de onderhandelingscomités (SCX-C2-OOC en VOCB) vertaald naar een centraal afsprakenkader. Dit centrale kader vereiste dat scholen uiterlijk op 1 september 2023 een lokaal afsprakenkader deconnectie opnemen als bijlage bij het arbeids- en schoolreglement. In het huidige Vlaamse regeerakkoord valt het expliciete vernoemen van een smartphonebeleid wat het geschetste beleidscyclus opnieuw zal voeden. Samen met het boven vermeld onderzoek naar mentaal welzijn ondersteunen deze maatregelen de beleidsvorming, waardoor er een solide basis ontstaat voor het implementeren van digitale deconnectie in scholen. 
 
+> Geen vuiltje aan de lucht
 
-
-![beleidscyclus](./img/beleidscyclus.svg "[^🦶]")
+![beleidscyclus](./img/cel-receptor.svg "[^🦶]")
 
 [^🦶]: https://www.c3.nl/wp-content/uploads/woocommerce_uploads/2018/02/Voor-de-leerling-Knutselen-met-moleculen.pdf
- 
+
+# Binnenkort weer hooikoorts? 
+
+   --{{0}}--
+?[⏯](./img/slide-03-beleidscyclus.mp3)
+Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege gekomen. De beleidscyclus op Vlaams niveau wordt vaak beinvloed door de ontwikkeling van Europese richtlijnen en Belgische wetten. Hier een korte duik in de recente geschiedenis: de sociale partners in Vlaanderen sloten in september 2021 de CAO (Collectieve ArbeidsOvereenkomst) XII af waar onder anderen ook aanbevelingen over gebruik van digitale communicatiemiddelen naar voren geschoven werden. Een jaar later werd dit globale kader werd in de schoot van de onderhandelingscomités (SCX-C2-OOC en VOCB) vertaald naar een centraal afsprakenkader. Dit centrale kader vereiste dat scholen uiterlijk op 1 september 2023 een lokaal afsprakenkader deconnectie opnemen als bijlage bij het arbeids- en schoolreglement. In het huidige Vlaamse regeerakkoord valt het expliciete vernoemen van een smartphonebeleid wat het geschetste beleidscyclus opnieuw zal voeden. Samen met het boven vermeld onderzoek naar mentaal welzijn ondersteunen deze maatregelen de beleidsvorming, waardoor er een solide basis ontstaat voor het implementeren van digitale deconnectie in scholen. 
+
+> Je ruikt gevaar, histamine is vrijgekomen
+
+![beleidscyclus](./img/histamine-cel-niet-gebonden.svg "[^🦶]")
+
+[^🦶]: https://www.c3.nl/wp-content/uploads/woocommerce_uploads/2018/02/Voor-de-leerling-Knutselen-met-moleculen.pdf
+
+# Binnenkort weer hooikoorts? 
+
+   --{{0}}--
+?[⏯](./img/slide-03-beleidscyclus.mp3)
+Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege gekomen. De beleidscyclus op Vlaams niveau wordt vaak beinvloed door de ontwikkeling van Europese richtlijnen en Belgische wetten. Hier een korte duik in de recente geschiedenis: de sociale partners in Vlaanderen sloten in september 2021 de CAO (Collectieve ArbeidsOvereenkomst) XII af waar onder anderen ook aanbevelingen over gebruik van digitale communicatiemiddelen naar voren geschoven werden. Een jaar later werd dit globale kader werd in de schoot van de onderhandelingscomités (SCX-C2-OOC en VOCB) vertaald naar een centraal afsprakenkader. Dit centrale kader vereiste dat scholen uiterlijk op 1 september 2023 een lokaal afsprakenkader deconnectie opnemen als bijlage bij het arbeids- en schoolreglement. In het huidige Vlaamse regeerakkoord valt het expliciete vernoemen van een smartphonebeleid wat het geschetste beleidscyclus opnieuw zal voeden. Samen met het boven vermeld onderzoek naar mentaal welzijn ondersteunen deze maatregelen de beleidsvorming, waardoor er een solide basis ontstaat voor het implementeren van digitale deconnectie in scholen. 
+
+> Groot alarm - je ogen tranen, je hebt een snotneus en kriebel in je keel...
+
+![beleidscyclus](./img/histamine-cel-gebonden.svg "[^🦶]")
+
+[^🦶]: https://www.c3.nl/wp-content/uploads/woocommerce_uploads/2018/02/Voor-de-leerling-Knutselen-met-moleculen.pdf
+
+# Digitale competenties 
+
+       --{{0}}--
+?[⏯](./img/slide-01-digitale-competenties.mp3)
+Laat ons eerst op digitale competenties inzoomen. De leerkracht werkt aan 16 sleutelcompetenties, waaronder digitale vaardigheden en mediawijsheid. Dit vereist dat je je vaardigheden onderhoudt om als innovator in het onderwijs te functioneren. De Vlaamse overheid heeft met de Digisprong geprobeerd de digitale kloof te dichten en de digitale vaardigheden van leerkrachten te versterken. Het nieuwe regeerakkoord stelt voor om deze operatie voort te zetten door te investeren in ICT-infrastructuur voor leerlingen, leraren en schoolteams. Het doel is een positieve houding ten opzichte van digitale technologieën te stimuleren en creatief en kritisch gebruik aan te moedigen. Echter, het toenemende aanbod aan digitale communicatietools en de variabiliteit van eduTools stellen hoge eisen aan de digitale vaardigheden van leerkrachten en leerlingen. De continue noodzaak om deze tools te gebruiken kan leiden tot het niet weten wanneer te deconnecteren. Daarom is het essentieel dat de schoolgemeenschap digitaal vaardig is en bewust blijft van haar digitale grenzen.
+
+             --{{0}}--
+De leerkracht werkt doelgericht aan 16 sleutelcompetenties waaronder digitale competenties en mediawijsheid bij de leerlingen. Dit houdt in dat je hierin zelf voldoende vaardig bent en je vaardigheden op peil houdt om tegemoet te komen aan je rol als innovator, een van de 10 basiscompetenties van de leraar secundair onderwijs. Ondersteunend heeft de Vlaamse overheid met de Digisprong een serieuze poging gedaan om de digitale kloof te dichten en de digitale competenties van leerkrachten te versterken. Dit initiatief toont aan dat er een duidelijke intentie is om de digitale vaardigheden in het onderwijs te verbeteren. De vier speerpunten van de Digisprong – infrastructuur, beleid, opleiding en een kenniscentrum – zijn concrete stappen die de theorie in de praktijk moeten brengen. Ook in het nieuwe regeerakkoord stelt de Vlaamse regering voor om de historische stap veilig te stellen door een vervolg te breien aan deze belangrijke operatie. Ze herhalen dus de investering in de noodzakelijke ICT-infrastructuur voor leerlingen, leraren en schoolteams. Doel is dat de Digisprong een positieve houding ten opzichte van digitale technologieën stimuleert en het creatief en kritisch gebruik aanmoedigt. Door leerkrachten te professionaliseren en hen te voorzien van de nodige middelen en ondersteuning, wordt een omgeving gecreëerd waarin digitale technologieën op een constructieve manier kunnen worden geïntegreerd in het onderwijs.
+Echter, het steeds toenemende aanbod aan digitale communicatietools, zoals email, Whatsapp, Smartschool, etc., en de grote variabiliteit van eduTools stellen zeer hoge eisen aan de digitale vaardigheden van leerkrachten en leerlingen. De continue nood tot het gebruik van deze tools kan het risico vergroten dat leerkrachten en leerlingen niet meer weten wanneer ze moeten deconnecteren. Daarom is het essentieel dat de volledige schoolgemeenschap niet alleen digitaal vaardig is, maar ook bewust blijven van haar digitale grenzen.
+
+![](./img/digitale-competenties.svg "[^🦶]")
+
+
+[^🦶]: https://nl.freepik.com/vrije-photo/beveiligingsconcept-met-slot_22632767.htm#fromView=search&page=1&position=49&uuid=abfcf2c4-41ae-4315-beea-83b36deca858​; https://nl.freepik.com/vrije-photo/hou-van-hangsloten-op-metalen-reling_9898302.htm#fromView=search&page=1&position=47&uuid=03fe7b58-ae23-4945-81f7-4d3d14f83ffc
+
 # Digitaliseringsbeleid
 
    --{{0}}--
