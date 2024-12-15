@@ -148,7 +148,7 @@ Maar als je allergisch bent, gaat het alarm te vroeg af. Dan denkt je lichaam da
 # Het sleutel-slot principe is al 130 jaar oud
    
       --{{0}}--
-Laat ons even samenvatten: Het sleutel-slot principe is essentieel voor het begrijpen van moleculaire interacties in de biologie en heeft brede toepassingen in de wetenschap en geneeskunde. Sleutels zijn moleculen of substraten en de sloten zijn eiwitten. Niet elke sleutel past op elk slot en biologische sloten hebben vaak meer dan een sleutel. Dit prinzipe wert 1894 door Emil Fischer hypothetisch beschreven aan de hand van de spezifieke interactie tussen een enzym, een eiwit, en substraat. Het sleutel-slot principe wordt toegepast bij hormoon-receptor binding, enzym-substraat interacties, en bij medicijnontwerp.
+Laat ons even samenvatten: Het sleutel-slot principe is essentieel voor het begrijpen van moleculaire interacties in de biologie en heeft brede toepassingen in de wetenschap en geneeskunde. Sleutels zijn moleculen of substraten en de sloten zijn eiwitten. Niet elke sleutel past op elk slot en biologische sloten hebben vaak meer dan een sleutel. Dit prinzipe werd 1894 door Emil Fischer hypothetisch beschreven aan de hand van de spezifieke interactie tussen een enzym, een eiwit, en substraat. Het sleutel-slot principe wordt toegepast bij hormoon-receptor binding, enzym-substraat interacties, en bij medicijnontwerp.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/e/e0/Hermann_Emil_Fischer_c1895.jpg "[^🦶]")
 Het sleutel-slot principe wordt toegepast in enzym-substraat interacties, hormoon-receptor binding, en medicijnontwerp.
