@@ -43,41 +43,30 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
 
 De presentatie wordt volledig op je computer geladen. Vervolgens kan je met de pijltoetsen van je toetsenbord door de presentatie gaan. Klik uiteraard ook op het Luidspreker icoontje onderaan de pagina om de uitleg bij elke slide te kunnen beluisteren.
 
-# Welke doelen heeft deze korte presentatie? 
-
-        --{{0}}--
-?[⏯](./img/slide-00-inleiding.mp3)
-Beste medestudenten, Stel u voor: het is vrijdagavond, u heeft net een lange werkweek achter de rug en u kijkt uit naar een ontspannen weekend. Maar dan, net als u zich neerzet met een goed boek of een film, pingt uw telefoon. Een e-mail van uw directeur. Moet u reageren? Of heeft u het recht om te deconnecteren? Vandaag duiken we in een cruciaal en actueel thema: “Leeft het recht op deconnectie enkel op papier of is het ingeburgerd in het Vlaams onderwijs?” 
-
-     --{{0}}--
-In een wereld waar technologie ons constant verbindt, is het belangrijker dan ooit om te begrijpen wat dit recht inhoudt en hoe het in de praktijk wordt toegepast. Laten we samen bekijken hoe het Vlaamse onderwijs dit recht benadert en welke lessen we kunnen trekken voor een gezonde balans tussen werk en privéleven. Bent u klaar om deze reis met mij te maken? Laten we beginnen!
+# Welke doelen heeft deze korte presentatie?
 
 * je kunt het sleutel-slot principe in een biologische context herkennen
 
 * je kunt beschrijven wat het sleutel-slot-principe in de biochemie betekent
 
-[^🦶]: Designed by Freepik: https://www.freepik.com/free-vector/hand-drawn-endless-scrolling-illustration_64776684.htm
-
 # Sleutels en sloten 
 
    --{{0}}--
-?[⏯k](./img/slide-03-beleidscyclus.mp3)
-Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege gekomen. De beleidscyclus op Vlaams niveau wordt vaak beinvloed door de ontwikkeling van Europese richtlijnen en Belgische wetten. Hier een korte duik in de recente geschiedenis: de sociale partners in Vlaanderen sloten in september 2021 de CAO (Collectieve ArbeidsOvereenkomst) XII af waar onder anderen ook aanbevelingen over gebruik van digitale communicatiemiddelen naar voren geschoven werden. Een jaar later werd dit globale kader werd in de schoot van de onderhandelingscomités (SCX-C2-OOC en VOCB) vertaald naar een centraal afsprakenkader. Dit centrale kader vereiste dat scholen uiterlijk op 1 september 2023 een lokaal afsprakenkader deconnectie opnemen als bijlage bij het arbeids- en schoolreglement. In het huidige Vlaamse regeerakkoord valt het expliciete vernoemen van een smartphonebeleid wat het geschetste beleidscyclus opnieuw zal voeden. Samen met het boven vermeld onderzoek naar mentaal welzijn ondersteunen deze maatregelen de beleidsvorming, waardoor er een solide basis ontstaat voor het implementeren van digitale deconnectie in scholen.
+Je vindt ze vaak op bruggen in populaire touristische bestemmingen: de liefdesslotjes. Stel we zouden enkele sloten willen open krijgen. Wat hebben we nodig en hoe gaan we te werk?
 
-![beleidscyclus](./img/00-sleutels-sloten.svg "[^🦶]")
+![liefdesslotjes](./img/00-sleutels-sloten.svg "[^🦶]")
 
 <!-- style="font-size: 2em" -->
 > Hoe krijgen we de liefdesslotjes open?
 
-[^🦶]: https://www.c3.nl/wp-content/uploads/woocommerce_uploads/2018/02/Voor-de-leerling-Knutselen-met-moleculen.pdf
+[^🦶]: https://nl.freepik.com/vrije-photo/beveiligingsconcept-met-slot_22632767.htm#fromView=search&page=1&position=49&uuid=abfcf2c4-41ae-4315-beea-83b36deca858; https://nl.freepik.com/vrije-photo/hou-van-hangsloten-op-metalen-reling_9898302.htm#fromView=search&page=1&position=47&uuid=03fe7b58-ae23-4945-81f7-4d3d14f83ffc
 
 # Binnenkort weer hooikoorts? 
 
    --{{0}}--
-?[⏯](./img/slide-03-beleidscyclus.mp3)
-Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege gekomen. De beleidscyclus op Vlaams niveau wordt vaak beinvloed door de ontwikkeling van Europese richtlijnen en Belgische wetten. Hier een korte duik in de recente geschiedenis: de sociale partners in Vlaanderen sloten in september 2021 de CAO (Collectieve ArbeidsOvereenkomst) XII af waar onder anderen ook aanbevelingen over gebruik van digitale communicatiemiddelen naar voren geschoven werden. Een jaar later werd dit globale kader werd in de schoot van de onderhandelingscomités (SCX-C2-OOC en VOCB) vertaald naar een centraal afsprakenkader. Dit centrale kader vereiste dat scholen uiterlijk op 1 september 2023 een lokaal afsprakenkader deconnectie opnemen als bijlage bij het arbeids- en schoolreglement. In het huidige Vlaamse regeerakkoord valt het expliciete vernoemen van een smartphonebeleid wat het geschetste beleidscyclus opnieuw zal voeden. Samen met het boven vermeld onderzoek naar mentaal welzijn ondersteunen deze maatregelen de beleidsvorming, waardoor er een solide basis ontstaat voor het implementeren van digitale deconnectie in scholen. 
+Genieten van de lente is lastig als je hooikoorts hebt: snotteren, niezen en tranende ogen. Je bent of kent vast wel iemand met een allergie. Gelukkig is er iets aan te doen. Neem een antihistaminepilletje, dat is een medicijn tegen allergieverschijnselen, en je hebt veel minder last. Er bestaan al veel verschillende antihistaminemedicijnen. We weten dat alle antihistamines werken op een speciaal molecuul in je lichaam: de histaminereceptor. Een receptor is een groot molecuul (een eiwit) dat als antenne voor je cellen fungeert. Het steekt door de buitenkant van de cel heen en vangt signalen op uit de rest van je lichaam, of soms zelfs van buiten, en geeft dit binnen in de cel door.
 
-![beleidscyclus](./img/01cel-receptor.svg "[^🦶]")
+![histaminereceptor met cel](./img/01cel-receptor.svg "[^🦶]")
 
 <!-- style="font-size: 2em" -->
 > Geen vuiltje aan de lucht
@@ -87,23 +76,21 @@ Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege ge
 # Binnenkort weer hooikoorts? 
 
    --{{0}}--
-?[⏯](./img/slide-03-beleidscyclus.mp3)
-Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege gekomen. De beleidscyclus op Vlaams niveau wordt vaak beinvloed door de ontwikkeling van Europese richtlijnen en Belgische wetten. Hier een korte duik in de recente geschiedenis: de sociale partners in Vlaanderen sloten in september 2021 de CAO (Collectieve ArbeidsOvereenkomst) XII af waar onder anderen ook aanbevelingen over gebruik van digitale communicatiemiddelen naar voren geschoven werden. Een jaar later werd dit globale kader werd in de schoot van de onderhandelingscomités (SCX-C2-OOC en VOCB) vertaald naar een centraal afsprakenkader. Dit centrale kader vereiste dat scholen uiterlijk op 1 september 2023 een lokaal afsprakenkader deconnectie opnemen als bijlage bij het arbeids- en schoolreglement. In het huidige Vlaamse regeerakkoord valt het expliciete vernoemen van een smartphonebeleid wat het geschetste beleidscyclus opnieuw zal voeden. Samen met het boven vermeld onderzoek naar mentaal welzijn ondersteunen deze maatregelen de beleidsvorming, waardoor er een solide basis ontstaat voor het implementeren van digitale deconnectie in scholen. 
+Als er iets gevaarlijks in de lucht hangt, gaan er allerlei alarmbellen af in je lichaam. Eén zo’n noodsignaal is een klein molecuul, histamine, dat in het slijmvliesweefsel van je ogen en neus vrijkomt.
 
-![beleidscyclus](./img/02histamine-cel-niet-gebonden.svg "[^🦶]")
+![histamine](./img/02histamine-cel-niet-gebonden.svg "[^🦶]")
 
 <!-- style="font-size: 2em" -->
-> Je ruikt gevaar, histamine is vrijgekomen
+> Je lichaam ruikt gevaar, histamine is vrijgekomen
 
 [^🦶]: https://www.c3.nl/wp-content/uploads/woocommerce_uploads/2018/02/Voor-de-leerling-Knutselen-met-moleculen.pdf
 
 # Binnenkort weer hooikoorts? 
 
    --{{0}}--
-?[⏯](./img/slide-03-beleidscyclus.mp3)
-Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege gekomen. De beleidscyclus op Vlaams niveau wordt vaak beinvloed door de ontwikkeling van Europese richtlijnen en Belgische wetten. Hier een korte duik in de recente geschiedenis: de sociale partners in Vlaanderen sloten in september 2021 de CAO (Collectieve ArbeidsOvereenkomst) XII af waar onder anderen ook aanbevelingen over gebruik van digitale communicatiemiddelen naar voren geschoven werden. Een jaar later werd dit globale kader werd in de schoot van de onderhandelingscomités (SCX-C2-OOC en VOCB) vertaald naar een centraal afsprakenkader. Dit centrale kader vereiste dat scholen uiterlijk op 1 september 2023 een lokaal afsprakenkader deconnectie opnemen als bijlage bij het arbeids- en schoolreglement. In het huidige Vlaamse regeerakkoord valt het expliciete vernoemen van een smartphonebeleid wat het geschetste beleidscyclus opnieuw zal voeden. Samen met het boven vermeld onderzoek naar mentaal welzijn ondersteunen deze maatregelen de beleidsvorming, waardoor er een solide basis ontstaat voor het implementeren van digitale deconnectie in scholen. 
+Histamine wordt vastgegrepen door de histaminereceptor. Zodra die twee elkaar hebben gevonden, weten je slijmvliescellen: ‘Er is groot alarm! We moeten extra slijm maken.’ Je ogen gaan tranen, je krijgt een snotneus en kriebel in je keel: zo probeert het lichaam de gevaarlijke deeltjes zo snel mogelijk weer kwijt te raken.
 
-![beleidscyclus](./img/03histamine-cel-gebonden.svg "[^🦶]")
+![histamine bindt aan ](./img/03histamine-cel-gebonden.svg "[^🦶]")
 
 <!-- style="font-size: 2em" -->
 > Groot alarm -- je ogen tranen, je hebt een snotneus en kriebel in je keel...
@@ -113,10 +100,9 @@ Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege ge
 # Sleutels en sloten in de biologische context 
 
    --{{0}}--
-?[⏯](./img/slide-03-beleidscyclus.mp3)
-Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege gekomen. De beleidscyclus op Vlaams niveau wordt vaak beinvloed door de ontwikkeling van Europese richtlijnen en Belgische wetten. Hier een korte duik in de recente geschiedenis: de sociale partners in Vlaanderen sloten in september 2021 de CAO (Collectieve ArbeidsOvereenkomst) XII af waar onder anderen ook aanbevelingen over gebruik van digitale communicatiemiddelen naar voren geschoven werden. Een jaar later werd dit globale kader werd in de schoot van de onderhandelingscomités (SCX-C2-OOC en VOCB) vertaald naar een centraal afsprakenkader. Dit centrale kader vereiste dat scholen uiterlijk op 1 september 2023 een lokaal afsprakenkader deconnectie opnemen als bijlage bij het arbeids- en schoolreglement. In het huidige Vlaamse regeerakkoord valt het expliciete vernoemen van een smartphonebeleid wat het geschetste beleidscyclus opnieuw zal voeden. Samen met het boven vermeld onderzoek naar mentaal welzijn ondersteunen deze maatregelen de beleidsvorming, waardoor er een solide basis ontstaat voor het implementeren van digitale deconnectie in scholen. 
+Laat ons even terugkijken naar het verhaal van de liefdesslotjes en de sleutels. Welke moleculen kunnen we als sleutels beschrijven en welke als sloten?
 
-![beleidscyclus](./img/04sleutel-slot-cel.svg "[^🦶]")
+![](./img/04sleutel-slot-cel.svg "[^🦶]")
 
 <!-- style="font-size: 2em" -->
 > Ook in ons lichaam hebben we 'sleutels' en 'sloten'.
@@ -126,8 +112,7 @@ Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege ge
 # Sleutels en sloten in de biologische context 
 
    --{{0}}--
-?[⏯](./img/slide-03-beleidscyclus.mp3)
-Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege gekomen. De beleidscyclus op Vlaams niveau wordt vaak beinvloed door de ontwikkeling van Europese richtlijnen en Belgische wetten. Hier een korte duik in de recente geschiedenis: de sociale partners in Vlaanderen sloten in september 2021 de CAO (Collectieve ArbeidsOvereenkomst) XII af waar onder anderen ook aanbevelingen over gebruik van digitale communicatiemiddelen naar voren geschoven werden. Een jaar later werd dit globale kader werd in de schoot van de onderhandelingscomités (SCX-C2-OOC en VOCB) vertaald naar een centraal afsprakenkader. Dit centrale kader vereiste dat scholen uiterlijk op 1 september 2023 een lokaal afsprakenkader deconnectie opnemen als bijlage bij het arbeids- en schoolreglement. In het huidige Vlaamse regeerakkoord valt het expliciete vernoemen van een smartphonebeleid wat het geschetste beleidscyclus opnieuw zal voeden. Samen met het boven vermeld onderzoek naar mentaal welzijn ondersteunen deze maatregelen de beleidsvorming, waardoor er een solide basis ontstaat voor het implementeren van digitale deconnectie in scholen. 
+Precies, de kleine moleculen zoals histamine in ons voorbeeld zijn de sleutels. Deze moleculen worden ook substraten genoemd. En de eiwitten zijn de sloten -- in ons voorbeeld een histaminereceptor. Op een cel vinden we meer dan een type eitwitreceptor terug. 
 
 ![beleidscyclus](./img/05molecuul-receptor-cel.svg "[^🦶]")
 
@@ -139,8 +124,7 @@ Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege ge
 # Sleutels en sloten in de biologische context 
 
    --{{0}}--
-?[⏯](./img/slide-03-beleidscyclus.mp3)
-Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege gekomen. De beleidscyclus op Vlaams niveau wordt vaak beinvloed door de ontwikkeling van Europese richtlijnen en Belgische wetten. Hier een korte duik in de recente geschiedenis: de sociale partners in Vlaanderen sloten in september 2021 de CAO (Collectieve ArbeidsOvereenkomst) XII af waar onder anderen ook aanbevelingen over gebruik van digitale communicatiemiddelen naar voren geschoven werden. Een jaar later werd dit globale kader werd in de schoot van de onderhandelingscomités (SCX-C2-OOC en VOCB) vertaald naar een centraal afsprakenkader. Dit centrale kader vereiste dat scholen uiterlijk op 1 september 2023 een lokaal afsprakenkader deconnectie opnemen als bijlage bij het arbeids- en schoolreglement. In het huidige Vlaamse regeerakkoord valt het expliciete vernoemen van een smartphonebeleid wat het geschetste beleidscyclus opnieuw zal voeden. Samen met het boven vermeld onderzoek naar mentaal welzijn ondersteunen deze maatregelen de beleidsvorming, waardoor er een solide basis ontstaat voor het implementeren van digitale deconnectie in scholen. 
+Zoals in ons voorbeeld van de liefdesslotjes bestaan er ook in ons lichaam meer dan een sleutels. En sommige sleutels passen wel, het histamine in ons voorbeeld, en andere niet, zoals de blauwe, spitse sleutel, op de histaminereceptor. 
 
 ![beleidscyclus](./img/06sleutel-slot-yes-no.svg "[^🦶]")
 
@@ -152,31 +136,22 @@ Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege ge
 # Sleutels en sloten in de biologische context 
 
    --{{0}}--
-?[⏯](./img/slide-03-beleidscyclus.mp3)
-Via de beleidscyclus is het recht op deconnectie ook op schoolniveau in voege gekomen. De beleidscyclus op Vlaams niveau wordt vaak beinvloed door de ontwikkeling van Europese richtlijnen en Belgische wetten. Hier een korte duik in de recente geschiedenis: de sociale partners in Vlaanderen sloten in september 2021 de CAO (Collectieve ArbeidsOvereenkomst) XII af waar onder anderen ook aanbevelingen over gebruik van digitale communicatiemiddelen naar voren geschoven werden. Een jaar later werd dit globale kader werd in de schoot van de onderhandelingscomités (SCX-C2-OOC en VOCB) vertaald naar een centraal afsprakenkader. Dit centrale kader vereiste dat scholen uiterlijk op 1 september 2023 een lokaal afsprakenkader deconnectie opnemen als bijlage bij het arbeids- en schoolreglement. In het huidige Vlaamse regeerakkoord valt het expliciete vernoemen van een smartphonebeleid wat het geschetste beleidscyclus opnieuw zal voeden. Samen met het boven vermeld onderzoek naar mentaal welzijn ondersteunen deze maatregelen de beleidsvorming, waardoor er een solide basis ontstaat voor het implementeren van digitale deconnectie in scholen. 
+Maar als je allergisch bent, gaat het alarm te vroeg af. Dan denkt je lichaam dat ongevaarlijke dingen, zoals stuifmeel, wél gevaarlijk zijn. Heel irritant! Sommige mensen lopen de hele lente te snotteren. Om hen te helpen, zijn er onder andere antihistaminemedicijnen uitgevonden. Die medicijnen plakken nog beter dan histamine zelf aan de antenne (de histaminereceptor) waardoor er geen plek meer is voor het alarmmolecuul histamine. Het alarm kan dan niet meer afgaan. De slijmcellen merken niks en je neus blijft droog.
 
 ![beleidscyclus](./img/07sleutel-slot-yes-no-inhibitor.svg "[^🦶]")
 
 <!-- style="font-size: 2em" -->
-> Biologische sloten hebben meer dan een sleutel.
+> Biologische sloten hebben vaak meer dan een sleutel.
 
 [^🦶]: https://www.c3.nl/wp-content/uploads/woocommerce_uploads/2018/02/Voor-de-leerling-Knutselen-met-moleculen.pdf
 
 # Het sleutel-slot principe is al 130 jaar oud
    
       --{{0}}--
-?[⏯](./img/slide-02-welzijnszorg.mp3)
-Welzijnszorg is bevoegheid van de Vlaamse gemeenschap. Een goede werk-privébalans voor leraren en het welbevinden van scholieren zijn van cruciaal belang. Een studie over de werkbaarheid van jobs in scholen, uitgevoerd door de Stichting Arbeid en Innovatie, toont als pijnpunten werkstressklachten, emotionele belasting, motivatieproblemen en een verstoorde werk-privébalans. De Vlaamse overheid kan helpen met centrale regelgeving, zoals het afsprakenkader deconnectie uit 2022. Ook schoolbesturen en directeurs hebben een belangrijke rol in het verminderen van werkstress door hun maatregelen te evalueren op hun impact op het personeel. Jongeren hebben volgens de Apenstaartjarenstudie 2024 moeite om buiten schooluren te ontsnappen aan mails van leerkrachten, zitten vast in verslavende TikTok-algoritmes en meldingen van sociale media. Schermen hebben een grote negatieve impact, maar bieden ook ontspanning en betere connecties met vrienden. Het probleem van constante verbondenheid treft dus jongeren en volwassenen tegelijkertijd en moet als maatschappij aangepakt worden.
-
-      --{{0}}--
-Welzijnszorg is bevoegheid van de Vlaamse gemeenschap. Een goede werk-privébalans voor leraren en het welbevinden van scholieren zijn van cruciaal belang. Door digitale deconnectie te bevorderen, kunnen we stress en burn-out verminderen, wat leidt tot een gezondere en productievere onderwijsomgeving.
-Naast deconnectie legt een studie over de werkbaarheid van jobs in de scholen die in opdracht van de Vlaamse sociale partnere door de Stichting Arbeid en Innovatie uitgevoerd werd werkstressklachten, emotionele belasting, motivatieproblemen, en een verstoorde balans werk-privé als pijnpunten bloot. Al deze pijnpunten verdienen aandacht, maar de werkstressklachten springen eruit. De Vlaamse overheid kan hier zeker haar rol spelen door centrale regelgeving op te stellen. We denken hier bijvoorbeeld aan het afsprakenkader deconnectie, dat in 2022 tot stand is gekomen en een globaal kader biedt over het gebruik van digitale communicatie in de school of het centrum. Maar ook de lagere echelons – de koepels over de school- en centrumbesturen tot de directeurs – dragen een belangrijke verantwoordelijkheid. Zij moeten zich bij iedere maatregel die zij aan het personeel opleggen de vraag stellen of en in welke zin die de werkstress beïnvloedt. Zij hebben zowel formeel als feitelijk veel impact op de werksituatie van het personeel.
-
+Laat ons even samenvatten: Het sleutel-slot principe is essentieel voor het begrijpen van moleculaire interacties in de biologie en heeft brede toepassingen in de wetenschap en geneeskunde. Sleutels zijn moleculen of substraten en de sloten zijn eiwitten. Niet elke sleutel past op elk slot en biologische sloten hebben vaak meer dan een sleutel. Dit prinzipe wert 1894 door Emil Fischer hypothetisch beschreven aan de hand van de spezifieke interactie tussen een enzym, een eiwit, en substraat. Het sleutel-slot principe wordt toegepast bij hormoon-receptor binding, enzym-substraat interacties, en bij medicijnontwerp.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/e/e0/Hermann_Emil_Fischer_c1895.jpg "[^🦶]")
-- Dieses Prinzip wurde 1894 von Emil Fischer hypothetisch beschrieben am Beispiel der spezifischen Bindung zwischen Enzym und Substrat.
-- Het sleutel-slot principe is essentieel voor het begrijpen van moleculaire interacties in de biologie en heeft brede toepassingen in de wetenschap en geneeskunde.
-- Het sleutel-slot principe wordt toegepast in enzym-substraat interacties, hormoon-receptor binding, en medicijnontwerp.
+Het sleutel-slot principe wordt toegepast in enzym-substraat interacties, hormoon-receptor binding, en medicijnontwerp.
 
 [^🦶]: Emil Fischer https://en.wikipedia.org/wiki/File:Hermann_Emil_Fischer_c1895.jpg; 
 
