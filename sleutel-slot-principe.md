@@ -49,13 +49,21 @@ De presentatie wordt volledig op je computer geladen. Vervolgens kan je met de p
 
 * je kunt beschrijven wat het sleutel-slot-principe in de biochemie betekent
 
+# Het sleutel-slot-principe
+
+![sleutel-slot](./img/rb_111368.png "[^🦶]")
+
+[^🦶]: https://www.freepik.com/free-vector/lock-key-sticker_16263312.htm 
+
+    --{{0}}--
+Hallo iedereen, vandaag wil ik jullie het sleutel-slot principe uitleggen aan de hand van een voorbeeld uit de geneeskunde. Stel je voor dat je een sleutel hebt die perfect past in een slot. Alleen met deze specifieke sleutel kun je het slot openen. Dit idee, dat een sleutel precies past in een slot, is een belangrijk concept in de biologie en wordt het sleutel-slot principe genoemd. Het sleutel-slot principe helpt ons te begrijpen hoe moleculen in ons lichaam samenwerken. Een goed voorbeeld hiervan is hoe een klein molecuul zich bindt aan een receptor. Receptoren zijn eiwitten op het oppervlak van cellen die specifieke moleculen, de substraten, herkennen en binden. Net zoals een sleutel alleen in een bepaald slot past, past een substraat alleen bij een specifieke receptor. Vandaag gaan we dieper ingaan op hoe dit principe werkt, waarom het zo belangrijk is voor ons lichaam, en we zullen een voorbeeld uit de geneeskunde bekijken om het beter te begrijpen.
+
 # Hoe krijgen we de liefdesslotjes open?
 
    --{{0}}--
 Je vindt ze vaak op bruggen in populaire touristische bestemmingen: de liefdesslotjes. Stel we zouden enkele sloten willen open krijgen. Wat hebben we nodig en hoe gaan we te werk?
 
 ![liefdesslotjes](./img/00-sleutels-sloten.svg "[^🦶]")
-
 
 [^🦶]: https://nl.freepik.com/vrije-photo/beveiligingsconcept-met-slot_22632767.htm#fromView=search&page=1&position=49&uuid=abfcf2c4-41ae-4315-beea-83b36deca858; https://nl.freepik.com/vrije-photo/hou-van-hangsloten-op-metalen-reling_9898302.htm#fromView=search&page=1&position=47&uuid=03fe7b58-ae23-4945-81f7-4d3d14f83ffc
 
