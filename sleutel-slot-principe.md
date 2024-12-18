@@ -138,7 +138,7 @@ Maar als je allergisch bent, gaat het alarm te vroeg af. Dan denkt je lichaam da
 
 [^🦶]: https://www.c3.nl/wp-content/uploads/woocommerce_uploads/2018/02/Voor-de-leerling-Knutselen-met-moleculen.pdf
 
-# Sleutels en sloten in de biologische context 
+# In ons lichaam hebben we veel sleutels en heel veel sloten  
 
    --{{0}}--
 Laat ons even terugkijken naar het verhaal van de liefdesslotjes en de sleutels. Welke moleculen kunnen we als sleutels beschrijven en welke als sloten?
