@@ -97,13 +97,6 @@ Histamine wordt vastgegrepen door de histaminereceptor. Zodra die twee elkaar he
 
 [^🦶]: https://www.c3.nl/wp-content/uploads/woocommerce_uploads/2018/02/Voor-de-leerling-Knutselen-met-moleculen.pdf
 
-# Sleutels en sloten in de biologische context 
-
-   --{{0}}--
-Laat ons even terugkijken naar het verhaal van de liefdesslotjes en de sleutels. Welke moleculen kunnen we als sleutels beschrijven en welke als sloten?
-
-![](./img/04sleutel-slot-cel.svg "[^🦶]")
-
 <!-- style="font-size: 2em" -->
 > Ook in ons lichaam hebben we 'sleutels' en 'sloten'.
 
@@ -144,6 +137,13 @@ Maar als je allergisch bent, gaat het alarm te vroeg af. Dan denkt je lichaam da
 > Biologische sloten hebben vaak meer dan een sleutel.
 
 [^🦶]: https://www.c3.nl/wp-content/uploads/woocommerce_uploads/2018/02/Voor-de-leerling-Knutselen-met-moleculen.pdf
+
+# Sleutels en sloten in de biologische context 
+
+   --{{0}}--
+Laat ons even terugkijken naar het verhaal van de liefdesslotjes en de sleutels. Welke moleculen kunnen we als sleutels beschrijven en welke als sloten?
+
+![](./img/04sleutel-slot-cel.svg "[^🦶]")
 
 # Het sleutel-slot principe is al 130 jaar oud
    
