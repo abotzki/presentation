@@ -69,8 +69,9 @@ Maar laat ons eerst naar een andere situatie uit het dagelijkse leven kijken: Je
 
 # De basisprincipes
 
-- We hebben een sleutel die specifiek in een slot past.
-- Omwille van de passende ruimtelijke structuur van de sleutel gaat het slotje open.-  
+<!-- style="font-size: 2em" -->
+> - We hebben een sleutel die specifiek in een slot past.
+> - Omwille van de passende ruimtelijke structuur van de sleutel gaat het slotje open.  
 
 # Binnenkort weer hooikoorts? Eerst geen vuiltje aan de lucht
 
