@@ -61,11 +61,16 @@ Hallo iedereen, vandaag wil ik jullie het sleutel-slot principe uitleggen aan de
 # Hoe krijgen we de liefdesslotjes open?
 
    --{{0}}--
-Je vindt ze vaak op bruggen in populaire touristische bestemmingen: de liefdesslotjes. Stel we zouden enkele sloten willen open krijgen. Wat hebben we nodig en hoe gaan we te werk?
+Maar laat ons eerst naar een andere situatie uit het dagelijkse leven kijken: Je vindt ze vaak op bruggen in populaire touristische bestemmingen: de liefdesslotjes. Stel we zouden enkele sloten willen open krijgen. Wat hebben we nodig en hoe gaan we te werk?
 
 ![liefdesslotjes](./img/00-sleutels-sloten.svg "[^🦶]")
 
 [^🦶]: https://nl.freepik.com/vrije-photo/beveiligingsconcept-met-slot_22632767.htm#fromView=search&page=1&position=49&uuid=abfcf2c4-41ae-4315-beea-83b36deca858; https://nl.freepik.com/vrije-photo/hou-van-hangsloten-op-metalen-reling_9898302.htm#fromView=search&page=1&position=47&uuid=03fe7b58-ae23-4945-81f7-4d3d14f83ffc
+
+# De basisprincipes
+
+- We hebben een sleutel die specifiek in een slot past.
+- Omwille van de passende ruimtelijke structuur van de sleutel gaat het slotje open.-  
 
 # Binnenkort weer hooikoorts? Eerst geen vuiltje aan de lucht
 
