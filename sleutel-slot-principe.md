@@ -70,8 +70,10 @@ Maar laat ons eerst naar een andere situatie uit het dagelijkse leven kijken: Je
 # De basisprincipes
 
 <!-- style="font-size: 2em" -->
-> - We hebben een sleutel die specifiek in een slot past.
-> - Door de passende ruimtelijke structuur van de sleutel gaat het slotje open.  
+> We hebben een sleutel die specifiek in een slot past.
+
+<!-- style="font-size: 2em" -->
+> Door de passende ruimtelijke structuur van de sleutel gaat het slotje open.  
 
 # Binnenkort weer hooikoorts? Eerst geen vuiltje aan de lucht
 
