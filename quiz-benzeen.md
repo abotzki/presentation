@@ -44,36 +44,36 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
 # Quiz over Benzeen
 
 1. Welke elementen bevat benzeen volgens de analyse?
-    [[ ]] Koolstof en zuurstof
-    [[x]] Koolstof en waterstof
-    [[ ]] Koolstof en stikstof
+-  [[ ]] Koolstof en zuurstof
+-  [[x]] Koolstof en waterstof
+-  [[ ]] Koolstof en stikstof
 
 2. Wat is de molecuulmassa van benzeen?
-    [[x]] 78,0 u
-    [[ ]] 92,3 u
-    [[ ]] 120,0 u
+-  [[x]] 78,0 u
+-  [[ ]] 92,3 u
+-  [[ ]] 120,0 u
 
 3. Wie stelde voor het eerst een aanvaardbare structuur van benzeen voor?
-    [[x]] Kekulé
-    [[ ]] Dalton
-    [[ ]] Avogadro
+-  [[x]] Kekulé
+-  [[ ]] Dalton
+-  [[ ]] Avogadro
 
 4. Wat is de afstand tussen dubbelgebonden koolstofatomen in benzeen?
-    [[ ]] 154 pm
-    [[x]] 134 pm
-    [[ ]] 120 pm
+-  [[ ]] 154 pm
+-  [[x]] 134 pm
+-  [[ ]] 120 pm
 
 5. Hoeveel energie komt vrij bij de hydrogenering van cyclohexeen?
-    [[x]] 120 kJ/mol
-    [[ ]] 208 kJ/mol
-    [[ ]] 360 kJ/mol
+-  [[x]] 120 kJ/mol
+-  [[ ]] 208 kJ/mol
+-  [[ ]] 360 kJ/mol
 
 6. Wat verklaart de afwijkingen in de eigenschappen van benzeen?
-    [[ ]] Hybridisatie-model
-    [[x]] Mesomerie-model
-    [[ ]] Resonantie-model
+-  [[ ]] Hybridisatie-model
+-  [[x]] Mesomerie-model
+-  [[ ]] Resonantie-model
 
 7. Wat is een aromatisch sextet?
-    [[ ]] Een zesring van koolstofatomen met afwisselend enkele en dubbele bindingen
-    [[x]] Een grote ringvormige overlappingsorbitale van zes p-orbitalen met elk één elektron
-    [[ ]] Een zeshoekige structuur met enkelvoudige bindingen
+- [[ ]] Een zesring van koolstofatomen met afwisselend enkele en dubbele bindingen
+- [[x]] Een grote ringvormige overlappingsorbitale van zes p-orbitalen met elk één elektron
+- [[ ]] Een zeshoekige structuur met enkelvoudige bindingen
