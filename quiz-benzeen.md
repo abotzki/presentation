@@ -44,71 +44,64 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
 ## Quiz over Benzeen
 
         {{0-1}}
-----------------
-
+*******************
 1. Welke elementen bevat benzeen volgens de analyse?
 [[ ]] Koolstof en zuurstof
 [[x]] Koolstof en waterstof
 [[ ]] Koolstof en stikstof
 
-----------------
+****************
 
        {{1-2}}
-----------------
-
+*******************
 2. Wat is de molecuulmassa van benzeen?
 [[x]] 78,0 u
 [[ ]] 92,3 u
 [[ ]] 120,0 u
 
------------------
+*******************
 
        {{2-3}}
-----------------
-
+*******************
 3. Wie stelde voor het eerst een aanvaardbare structuur van benzeen voor?
 [[ ]] Dalton
 [[x]] Kekulé
 [[ ]] Avogadro
 
------------
+*******************
 
        {{3-4}}
-----------------
-
+*******************
 4. Wat is de afstand tussen dubbelgebonden koolstofatomen in benzeen?
 [[ ]] 154 pm
 [[x]] 134 pm
 [[ ]] 120 pm
 
-------------
+*******************
 
        {{4-5}}
-----------------
-
+*******************
 5. Hoeveel energie komt vrij bij de hydrogenering van cyclohexeen?
 [[x]] 120 kJ/mol
 [[ ]] 208 kJ/mol
 [[ ]] 360 kJ/mol
 
-------------
+*******************
 
        {{5-6}}
-----------------
-
+*******************
 6. Wat verklaart de afwijkingen in de eigenschappen van benzeen?
 [[ ]] Hybridisatie-model
 [[x]] Mesomerie-model
 [[ ]] Resonantie-model
 
----------------
+*******************
 
        {{6-7}}
-----------------
-
+*******************
 7. Wat is een aromatisch sextet?
 [[ ]] Een zesring van koolstofatomen met afwisselend enkele en dubbele bindingen
 [[x]] Een grote ringvormige overlappingsorbitale van zes p-orbitalen met elk één elektron
 [[ ]] Een zeshoekige structuur met enkelvoudige bindingen
 
----
+*******************
