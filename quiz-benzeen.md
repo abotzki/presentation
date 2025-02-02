@@ -39,7 +39,7 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
 # Welkom
 
 > We gebruiken de interactieve Open Educational Resource online/offline infrastructuur LiaScript.
-> [Laten we beginnen!](https://liascript.github.io/course/?https://raw.githubusercontent.com/abotzki/presentation/refs/heads/master/quiz-benzeem.md)
+> [Laten we beginnen!](https://liascript.github.io/course/?https://raw.githubusercontent.com/abotzki/presentation/refs/heads/master/quiz-benzeen.md)
 
 # Quiz over Benzeen
 
