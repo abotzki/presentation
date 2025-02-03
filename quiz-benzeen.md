@@ -72,32 +72,23 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
 
        {{3-4}}
 *******************
-4. Wat is de afstand tussen dubbelgebonden koolstofatomen in benzeen?
+4. Wat is de afstand tussen de koolstofatomen in benzeen?
 [[ ]] 154 pm
-[[x]] 134 pm
-[[ ]] 120 pm
+[[x]] 140 pm
+[[ ]] 134 pm
 
 *******************
 
        {{4-5}}
 *******************
-5. Hoeveel energie komt vrij bij de hydrogenering van cyclohexeen?
-[[x]] 120 kJ/mol
-[[ ]] 208 kJ/mol
-[[ ]] 360 kJ/mol
-
-*******************
-
-       {{5-6}}
-*******************
-6. Wat verklaart de afwijkingen in de eigenschappen van benzeen?
+5. Wat verklaart de afwijkingen in de chemische eigenschappen van benzeen?
 [[ ]] Hybridisatie-model
 [[x]] Mesomerie-model
 [[ ]] Resonantie-model
 
 *******************
 
-       {{6-7}}
+       {{5-6}}
 *******************
 7. Wat is een aromatisch sextet?
 [[ ]] Een zesring van koolstofatomen met afwisselend enkele en dubbele bindingen
