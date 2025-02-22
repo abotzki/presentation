@@ -45,56 +45,16 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
 
 ## Oefening 1
 
-1. Welke elementen bevat benzeen volgens de analyse?
-[[ ]] Koolstof en zuurstof
-[[x]] Koolstof en waterstof
-[[ ]] Koolstof en stikstof
-*******************
+Geef de chemische naam van ![dit molecuul](https://github.com/abotzki/presentation/blob/quiz-nomenclatuur/img/oefening01.png?raw=true)
 
+[[cumeen]]
+<script>
+let input = "@input".trim().toLowerCase()
 
-****************
+input == "cumeen" || input == "isoproylbenzeen" || input == "(1-methylethyl)benzene"
+</script>
+***********************************************************************
 
-       {{1-2}}
-*******************
-2. Wat is de molecuulmassa van benzeen?
-[[x]] 78,0 u
-[[ ]] 92,3 u
-[[ ]] 120,0 u
+Correcte antwoorden zijn: cumeen of isoproylbenzeen of (1-methylethyl)benzene
 
-*******************
-
-       {{2-3}}
-*******************
-3. Wie stelde voor het eerst een aanvaardbare structuur van benzeen voor?
-[[ ]] Dalton
-[[x]] Kekulé
-[[ ]] Avogadro
-
-*******************
-
-       {{3-4}}
-*******************
-4. Wat is de afstand tussen de koolstofatomen in benzeen?
-[[ ]] 154 pm
-[[x]] 140 pm
-[[ ]] 134 pm
-
-*******************
-
-       {{4-5}}
-*******************
-5. Wat verklaart de afwijkingen in de chemische eigenschappen van benzeen?
-[[ ]] Hybridisatie-model
-[[x]] Mesomerie-model
-[[ ]] Resonantie-model
-
-*******************
-
-       {{5-6}}
-*******************
-7. Wat is een aromatisch sextet?
-[[ ]] Een zesring van koolstofatomen met afwisselend enkele en dubbele bindingen
-[[x]] Een grote ringvormige overlappingsorbitale van zes p-orbitalen met elk één elektron
-[[ ]] Een zeshoekige structuur met enkelvoudige bindingen
-
-*******************
+***********************************************************************
