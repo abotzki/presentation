@@ -41,14 +41,16 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
 > We gebruiken de interactieve Open Educational Resource online/offline infrastructuur LiaScript.
 > [Laten we beginnen!](https://liascript.github.io/course/?https://raw.githubusercontent.com/abotzki/presentation/refs/heads/master/quiz-homologen-benzeen-nomenclatuur.md)
 
-## Quiz over Benzeen
+## Wat zijn de namen van deze homologe verbindingen van benzeen?
 
-        {{0-1}}
-*******************
+## Oefening 1
+
 1. Welke elementen bevat benzeen volgens de analyse?
 [[ ]] Koolstof en zuurstof
 [[x]] Koolstof en waterstof
 [[ ]] Koolstof en stikstof
+*******************
+
 
 ****************
 
