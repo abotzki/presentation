@@ -40,6 +40,7 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
 
 > We gebruiken de interactieve Open Educational Resource online/offline infrastructuur LiaScript.
 > [Laten we beginnen!](https://liascript.github.io/course/?https://raw.githubusercontent.com/abotzki/presentation/refs/heads/master/quiz-geluid.md)
+> Klik vervlgens op de titels 'Vraag 1' tot 'Vraag 5' aan de linkerkant.
 
 
 # Quiz over Geluid
@@ -49,7 +50,7 @@ Dit is een quiz over de kenmerken van geluid.
 ## Vraag 1
 **Wat veroorzaakt geluid?**
 
-    [[ ]] Een trilling die wordt doorgegeven door een middenstof.
+    [[X]] Een trilling die wordt doorgegeven door een middenstof.
     [[ ]] Een lichtstraal die door een vacuüm reist.
     [[ ]] Een trilling die zich in vacuüm voortplant.
 
@@ -58,20 +59,36 @@ Dit is een quiz over de kenmerken van geluid.
 **Wat is resonantie?**
 
     [[ ]] Het absorberen van geluid door een materiaal.
-    [[ ]] Het meetrillen van een voorwerp onder invloed van een ander voorwerp dat met dezelfde trilling doorgroeft.
+    [[X]] Het meetrillen van een voorwerp onder invloed van een ander voorwerp dat met dezelfde trilling doorgroeft.
     [[ ]] Het weerkaatsen van geluidsgolven tegen een oppervlak.
 
 
 ## Vraag 3
 **Wat bepaalt de toonhoogte van een geluid?**
 
-    [[ ]] De frequentie van de trilling.
+    [[X]] De frequentie van de trilling.
     [[ ]] De amplitude van de trilling.
     [[ ]] De snelheid van de trilling.
 
 ## Vraag 4
 **Wat is de eenheid van geluidssterkte?**
 
-    [[ ]] Decibel (dB)
+    [[X]] Decibel (dB)
     [[ ]] Hertz (Hz)
     [[ ]] Meter per seconde (m/s)
+
+## Vraag 5
+Wat is het hoorbereik van het menselijk oor?
+
+        [[ ]] 20 – 20.000 Hz
+        [[X]] 20 – 20.000 Hz
+        [[ ]] 10 – 10.000 Hz
+        [[ ]] 30 – 30.000 Hz
+
+## Vraag 6
+Wat is het verschil in hoorbereik tussen mensen en verschillende dieren?
+
+        [[ ]] Mensen horen tussen 20 – 20.000 Hz, honden horen tussen 40 – 60.000 Hz, dolfijnen horen tot 150 kHz, en olifanten horen tussen 16 Hz – 12 kHz.
+        [[X]] Mensen horen tussen 20 – 20.000 Hz, honden horen tussen 40 – 60.000 Hz, dolfijnen horen tot 150 kHz, en olifanten horen tussen 16 Hz – 12 kHz.
+        [[ ]] Mensen horen tussen 20 – 20.000 Hz, honden horen tussen 20 – 40.000 Hz, dolfijnen horen tot 100 kHz, en olifanten horen tussen 10 Hz – 10 kHz.
+        [[ ]] Mensen horen tussen 10 – 10.000 Hz, honden horen tussen 30 – 50.000 Hz, dolfijnen horen tot 120 kHz, en olifanten horen tussen 20 Hz – 15 kHz.
