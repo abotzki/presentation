@@ -51,7 +51,7 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
 
     [[ ]] De massa van een element
     [[ ]] Het aantal protonen in de kern
-    [[+]] De neiging van een atoom om elektronen aan te trekken in een chemische binding
+    [[x]] De neiging van een atoom om elektronen aan te trekken in een chemische binding
     [[ ]] De energie die vrijkomt bij verbranding
 
 ## Vraag 2
@@ -59,7 +59,7 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
 
     [[ ]] 2,1
     [[ ]] 3,0
-    [[+]] 4,0
+    [[x]] 4,0
     [[ ]] 1,5
 
 ## Vraag 3
@@ -74,12 +74,12 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
 **Is dizuurstof (O₂) apolair of polair?**
 
     [[ ]] Polair
-    [[+]] Apolair
+    [[x]] Apolair
 
 ## Vraag 5
 **Hoe symboliseer je een partiële negatieve lading in een molecule?**
 
     [[ ]] +
     [[ ]] -
-    [[+]] δ⁻
+    [[x]] δ⁻
     [[ ]] e⁻
