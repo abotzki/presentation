@@ -37,11 +37,11 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
 
 -->
 
-# Welkom
+# Welkom bij de quiz over polaire en apolaire stoffen
 
 > We gebruiken de interactieve Open Educational Resource online/offline infrastructuur LiaScript.
 > [Laten we beginnen!](https://liascript.github.io/course/?https://raw.githubusercontent.com/abotzki/presentation/refs/heads/master/quiz-polaire-apolaire-stoffen.md)
-> Klik vervlgens op de titels 'Vraag 1' tot 'Vraag 6' aan de linkerkant.
+> Klik vervolgens op de titels 'Vraag 1' tot 'Vraag 6' aan de linkerkant.
 
 
 # Elektronegativiteit en Moleculaire Polariteit - Quiz
@@ -49,37 +49,37 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
 ## Vraag 1
 **Wat is de elektronegatieve waarde van een element?**
 
-  [[ ]] De massa van een element
-  [[ ]] Het aantal protonen in de kern
-  [[+]] De neiging van een atoom om elektronen aan te trekken in een chemische binding
-  [[ ]] De energie die vrijkomt bij verbranding
+    [[ ]] De massa van een element
+    [[ ]] Het aantal protonen in de kern
+    [[+]] De neiging van een atoom om elektronen aan te trekken in een chemische binding
+    [[ ]] De energie die vrijkomt bij verbranding
 
 ## Vraag 2
 **Welke waarde heeft fluor?**
 
-  [[ ]] 2,1
-  [[ ]] 3,0
-  [[+]] 4,0
-  [[ ]] 1,5
+    [[ ]] 2,1
+    [[ ]] 3,0
+    [[+]] 4,0
+    [[ ]] 1,5
 
 ## Vraag 3
 **Wat is een apolaire molecule?**
 
-  [[+]] Een molecule waarin de elektronen gelijk verdeeld zijn
-  [[ ]] Een molecule met een positieve en negatieve pool
-  [[ ]] Een molecule die altijd metaal bevat
-  [[ ]] Een molecule die geen bindingen heeft
+    [[x]] Een molecule waar de partiele ladingen zich ruimtelijk opheffen
+    [[ ]] Een molecule met een positieve en negatieve pool
+    [[ ]] Een molecule die altijd metaal bevat
+    [[ ]] Een molecule die geen bindingen heeft
 
 ## Vraag 4
 **Is dizuurstof (O₂) apolair of polair?**
 
-  [[ ]] Polair
-  [[+]] Apolair
+    [[ ]] Polair
+    [[+]] Apolair
 
 ## Vraag 5
 **Hoe symboliseer je een partiële negatieve lading in een molecule?**
 
-  [[ ]] +
-  [[ ]] -
-  [[+]] δ⁻
-  [[ ]] e⁻
+    [[ ]] +
+    [[ ]] -
+    [[+]] δ⁻
+    [[ ]] e⁻
