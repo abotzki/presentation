@@ -49,37 +49,37 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
 ## Vraag 1
 **Wat is de elektronegatieve waarde van een element?**
 
-    [[ ]] De massa van een element
-    [[ ]] Het aantal protonen in de kern
-    [[x]] De neiging van een atoom om elektronen aan te trekken in een chemische binding
-    [[ ]] De energie die vrijkomt bij verbranding
+    [[ ]] (1) De massa van een element
+    [[ ]] (2) Het aantal protonen in de kern
+    [[x]] (3) De neiging van een atoom om elektronen aan te trekken in een chemische binding
+    [[ ]] (4) De energie die vrijkomt bij verbranding
 
 ## Vraag 2
 **Welke waarde heeft fluor?**
 
-    [[ ]] 2,1
-    [[ ]] 3,0
-    [[x]] 4,0
-    [[ ]] 1,5
+    [[ ]] (1) 2,1
+    [[ ]] (2) 3,0
+    [[x]] (3) 4,0
+    [[ ]] (4) 1,5
 
 ## Vraag 3
 **Wat is een apolaire molecule?**
 
-    [[x]] Een molecule waar de partiele ladingen zich ruimtelijk opheffen
-    [[ ]] Een molecule met een positieve en negatieve pool
-    [[ ]] Een molecule die altijd metaal bevat
-    [[ ]] Een molecule die geen bindingen heeft
+    [[x]] (1) Een molecule waar de partiele ladingen zich ruimtelijk opheffen
+    [[ ]] (2) Een molecule met een positieve en negatieve pool
+    [[ ]] (3) Een molecule die altijd metaal bevat
+    [[ ]] (4) Een molecule die geen bindingen heeft
 
 ## Vraag 4
 **Is dizuurstof (O₂) apolair of polair?**
 
-    [[ ]] Polair
-    [[x]] Apolair
+    [[ ]] (1) Polair
+    [[x]] (2) Apolair
 
 ## Vraag 5
 **Hoe symboliseer je een partiële negatieve lading in een molecule?**
 
-    [[ ]] +
-    [[ ]] -
-    [[x]] δ⁻
-    [[ ]] e⁻
+    [[ ]] (1) +
+    [[ ]] (2) -
+    [[x]] (3) δ⁻
+    [[ ]] (4) e⁻
