@@ -41,23 +41,27 @@ script: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
 > We gebruiken de interactieve Open Educational Resource online/offline infrastructuur LiaScript.
 > [Laten we beginnen!](https://liascript.github.io/course/?https://raw.githubusercontent.com/abotzki/presentation/refs/heads/master/quiz-elektrolyse.md)
 
-# Quiz: Galvanische cel vs. Elektrolyse
+# Quiz: Elektrolyse
 
 Vul de tabel hieronder in op basis van je kennis.
 
 ## 📝 Vragen
 
-1. **Is een galvanische cel spontaan of niet‑spontaan?**  
-2. **Welke elektrode is negatief in een galvanische cel: anode of kathode?**  
+1. **Is een elektrolyse een spontaan of niet‑spontaan proces?**  
+2. **Welke type van chemische reactie vindt aan de anode plaats?**  
 3. **Wat doet elektrolyse met elektrische stroom: leveren of verbruiken?**  
 4. **Wat is de richting van de elektronstroom in een galvanische cel?**  
 
+Vul ter vergelijking ook aan voor de galvanische cel.
 
 | Kenmerk | Galvanische cel | Elektrolyse |
 |--------|------------------|-------------|
 | Spontaniteit | [[spontaan ]] | [[niet-spontaan ]] |
 | Stroom | [[Levert elektrische stroom ]] | [[Verbruikt elektrische stroom ]] |
 | Anode | [[negatief geladen ]] | [[positief geladen ]] |
-| Kathode | [[positief geladen ]] | [[negatief geladen ]] |
-| Elektronenstroom | [[van min naar plus ]] | [[van plus naar min ]] |
+| Cathode | [[positief geladen ]] | [[negatief geladen ]] |
+| Elektronen stromen | [[van min naar plus ]] | [[van plus naar min ]] |
 | Analogie | [[Batterij gebruiken ]] | [[Batterij opladen ]] |
+
+5. **Welk voorteken heeft het verschil van het standaard redoxpotentiaal bij elektrolyse?**
+6. **Hoe beinvloedt het verschil van het standaard redoxpotentiaal welke twee halfreacties bij elektrolyse met niet-inerte elektroden doorgaan?**
