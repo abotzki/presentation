@@ -64,4 +64,6 @@ Vul ter vergelijking ook aan voor de galvanische cel.
 | Analogie | [[Batterij gebruiken ]] | [[Batterij opladen ]] |
 
 5. **Welk voorteken heeft het verschil van het standaard redoxpotentiaal bij elektrolyse?**
-6. **Hoe beinvloedt het verschil van het standaard redoxpotentiaal welke twee halfreacties bij elektrolyse met niet-inerte elektroden doorgaan?**
+   [[negatief]]   
+6. **Hoe beinvloedt het verschil van het standaard redoxpotentiaal welke twee van meerdere mogelijke halfreacties bij elektrolyse met niet-inerte elektroden doorgaan?**
+   [[minst negatieve resulterende verschil]]
