@@ -50,20 +50,17 @@ Vul de tabel hieronder in op basis van je kennis.
 1. **Is een elektrolyse een spontaan of niet‑spontaan proces?**  
 2. **Welke type van chemische reactie vindt aan de anode plaats?**  
 3. **Wat doet elektrolyse met elektrische stroom: leveren of verbruiken?**  
-4. **Wat is de richting van de elektronstroom in een galvanische cel?**  
 
 Vul ter vergelijking ook aan voor de galvanische cel.
 
 | Kenmerk | Galvanische cel | Elektrolyse |
 |--------|------------------|-------------|
 | Spontaniteit | [[spontaan ]] | [[niet-spontaan ]] |
+| Anode | [[oxidatie ]] | [[oxidatie ]] |
 | Stroom | [[Levert elektrische stroom ]] | [[Verbruikt elektrische stroom ]] |
-| Anode | [[negatief geladen ]] | [[positief geladen ]] |
-| Cathode | [[positief geladen ]] | [[negatief geladen ]] |
-| Elektronen stromen | [[van min naar plus ]] | [[van plus naar min ]] |
 | Analogie | [[Batterij gebruiken ]] | [[Batterij opladen ]] |
 
 5. **Welk voorteken heeft het verschil van het standaard redoxpotentiaal bij elektrolyse?**
    [[negatief]]   
-6. **Hoe beinvloedt het verschil van het standaard redoxpotentiaal welke twee van meerdere mogelijke halfreacties bij elektrolyse met niet-inerte elektroden doorgaan?**
+6. **Hoe bepaalt het verschil van het standaard redoxpotentiaal welke twee van meerdere mogelijke halfreacties doorgaan bij een elektrolyse met niet-inerte elektroden?**
    [[minst negatieve resulterende verschil]]
