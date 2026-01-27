@@ -74,18 +74,19 @@ Welke uitspraak over de **spontaniteit** van de reacties in de cellen is correct
 *******
 
 ## Vraag 3
-Wat is het fundamentele verschil in energieomzetting tussen een galvanische cel en een elektrolysecel?
+Wat is de rol van een **inerte elektrode** in een elektrochemische cel?
 
 <!-- data-randomize -->
-- [[ ]] **ORANGE**<!-- style="color: #ffc14a" --> Beide celtypes zetten chemische energie in warmteenergie om.
-- [[X]] **LICHTBLAUW**<!-- style="color: #76c0d6" --> Een galvanische cel zet chemische energie in elektrische energie om.
-- [[X]] **ROZE**<!-- style="color: #ff71ce" --> Een elektrolysecel zet elektrische energie in chemische energie om.
-******
-- ✅ Juist. Een galvanische (voltaïsche) cel levert een spanning uit een **spontane** redoxreactie.
-- ✅ Juist. Bij elektrolyse wordt een **niet-spontane** reactie afgedwongen door een externe spanningsbron.
-- ❌ Onjuist. Warmte kan vrijkomen, maar dat is niet de fundamentele functie van deze cellen.
+- [[X]] **ROZE**<!-- style="color: #ff71ce" --> Ze geleidt elektronen maar neemt zelf niet deel aan de redoxreactie.
+- [[ ]] **LICHTBLAUW**<!-- style="color: #76c0d6" --> Ze reageert actief mee om de netto celreactie mogelijk te maken.
+- [[ ]] **ORANGE**<!-- style="color: #ffc14a" --> Ze verandert spontaan in een ion om de halfreacties te ondersteunen.
+***********
+✅ Correct. **Inerte elektroden** (zoals Pt of grafiet) dienen enkel als geleidend oppervlak wanneer de reactanten in vloeibare of oplossing zitten en de elektrode zelf niet kan of mag reageren.
 
-*****
+❌ Onjuist. Als de elektrode mee zou reageren, is ze per definitie **niet inert**.
+
+❌ Onjuist. Inerte elektroden lossen niet op en vormen geen ionen; ze blijven chemisch stabiel tijdens de reactie.
+***********
 
 ## Vraag 4
 Wat gebeurt er met de **elektronenstroom** en het **ionentransport** in een werkende elektrolyseopstelling met twee vaten?
@@ -102,18 +103,17 @@ Wat gebeurt er met de **elektronenstroom** en het **ionentransport** in een werk
 ❌ Onjuist. De elektrolyt én ionenmigratie zijn essentieel om lading in de cel te compenseren en de kring te sluiten.
 ***********
 
-
 ## Vraag 5
-Wat is de rol van een **inerte elektrode** in een elektrochemische cel?
+Wat is het fundamentele verschil in energieomzetting tussen een galvanische cel en een elektrolysecel?
 
 <!-- data-randomize -->
-- [[X]] **ROZE**<!-- style="color: #ff71ce" --> Ze geleidt elektronen maar neemt zelf niet deel aan de redoxreactie.
-- [[ ]] **LICHTBLAUW**<!-- style="color: #76c0d6" --> Ze reageert actief mee om de netto celreactie mogelijk te maken.
-- [[ ]] **ORANGE**<!-- style="color: #ffc14a" --> Ze verandert spontaan in een ion om de halfreacties te ondersteunen.
-***********
-✅ Correct. **Inerte elektroden** (zoals Pt of grafiet) dienen enkel als geleidend oppervlak wanneer de reactanten in vloeibare of oplossing zitten en de elektrode zelf niet kan of mag reageren.
+- [[ ]] **ORANGE**<!-- style="color: #ffc14a" --> Beide celtypes zetten chemische energie in warmteenergie om.
+- [[X]] **LICHTBLAUW**<!-- style="color: #76c0d6" --> Een galvanische cel zet chemische energie in elektrische energie om.
+- [[X]] **ROZE**<!-- style="color: #ff71ce" --> Een elektrolysecel zet elektrische energie in chemische energie om.
+******
+- ✅ Juist. Een galvanische (voltaïsche) cel levert een spanning uit een **spontane** redoxreactie.
+- ✅ Juist. Bij elektrolyse wordt een **niet-spontane** reactie afgedwongen door een externe spanningsbron.
+- ❌ Onjuist. Warmte kan vrijkomen, maar dat is niet de fundamentele functie van deze cellen.
 
-❌ Onjuist. Als de elektrode mee zou reageren, is ze per definitie **niet inert**.
+*****
 
-❌ Onjuist. Inerte elektroden lossen niet op en vormen geen ionen; ze blijven chemisch stabiel tijdens de reactie.
-***********
