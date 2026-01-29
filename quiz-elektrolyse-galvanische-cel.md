@@ -63,9 +63,9 @@ Neutralisatie is een zuur–baseproces en hoort niet specifiek bij elektrochemis
 Welke uitspraak over de **spontaniteit** van de reacties in de cellen is correct?
 
 <!-- data-randomize -->
-- [[X]] **ROZE**<!-- style="color: #ff71ce" --> In een galvanische cel verloopt de netto reactie spontaan, in een elektrolysecel niet-spontaan.
+- [[X]] **ORANGE**<!-- style="color: #ffc14a" --> In een galvanische cel verloopt de netto reactie spontaan, in een elektrolysecel niet-spontaan.
 - [[ ]] **LICHTBLAUW**<!-- style="color: #76c0d6" --> Beide celtypes vereisen externe energie om te reageren.
-- [[ ]] **ORANGE**<!-- style="color: #ffc14a" --> Bij beide celtypes staan de reacties in evenwicht.
+- [[ ]] **ROZE**<!-- style="color: #ff71ce" --> Bij beide celtypes staan de reacties in evenwicht.
 *******
 ✅ Juist. Galvanisch: **spontaan** (ΔG < 0, E°cel > 0). Elektrolyse: **niet-spontaan** (ΔG > 0, externe spanning vereist).
 ❌ Onjuist. Alleen elektrolyse vereist externe energie om de reactie te laten verlopen.
@@ -89,6 +89,20 @@ Wat is de rol van een **inerte elektrode** in een elektrochemische cel?
 ***********
 
 ## Vraag 4
+Wat is het fundamentele verschil in energieomzetting tussen een galvanische cel en een elektrolysecel?
+
+<!-- data-randomize -->
+- [[ ]] **ROZE**<!-- style="color: #ff71ce" --> Beide celtypes zetten chemische energie in warmteenergie om.
+- [[X]] **LICHTBLAUW**<!-- style="color: #76c0d6" --> Een galvanische cel zet chemische energie in elektrische energie om.
+- [[X]] **ORANGE**<!-- style="color: #ffc14a" --> Een elektrolysecel zet elektrische energie in chemische energie om.
+******
+- ✅ Juist. Een galvanische (voltaïsche) cel levert een spanning uit een **spontane** redoxreactie.
+- ✅ Juist. Bij elektrolyse wordt een **niet-spontane** reactie afgedwongen door een externe spanningsbron.
+- ❌ Onjuist. Warmte kan vrijkomen, maar dat is niet de fundamentele functie van deze cellen.
+
+*****
+
+## Vraag 5
 Wat gebeurt er met de **elektronenstroom** en het **ionentransport** in een werkende elektrolyseopstelling met twee vaten?
 
 <!-- data-randomize -->
@@ -103,17 +117,5 @@ Wat gebeurt er met de **elektronenstroom** en het **ionentransport** in een werk
 ❌ Onjuist. De elektrolyt én ionenmigratie zijn essentieel om lading in de cel te compenseren en de kring te sluiten.
 ***********
 
-## Vraag 5
-Wat is het fundamentele verschil in energieomzetting tussen een galvanische cel en een elektrolysecel?
 
-<!-- data-randomize -->
-- [[ ]] **ORANGE**<!-- style="color: #ffc14a" --> Beide celtypes zetten chemische energie in warmteenergie om.
-- [[X]] **LICHTBLAUW**<!-- style="color: #76c0d6" --> Een galvanische cel zet chemische energie in elektrische energie om.
-- [[X]] **ROZE**<!-- style="color: #ff71ce" --> Een elektrolysecel zet elektrische energie in chemische energie om.
-******
-- ✅ Juist. Een galvanische (voltaïsche) cel levert een spanning uit een **spontane** redoxreactie.
-- ✅ Juist. Bij elektrolyse wordt een **niet-spontane** reactie afgedwongen door een externe spanningsbron.
-- ❌ Onjuist. Warmte kan vrijkomen, maar dat is niet de fundamentele functie van deze cellen.
-
-*****
 
